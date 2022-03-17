@@ -14,7 +14,7 @@ HU Yong (SUSTech, Shenzhen) ;  &emsp; &emsp;  ###(you-know-what)sustech.edu.cn  
 
 LEE Ting-Yu (NTU, Taiwan);   &emsp; &emsp;  tingyu.###(you-know-what)gmail.com   &emsp; ###=my family name
 
-XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##(you-know-what)math.ac.cn    & emsp; ##=last 2 letters of "fei"
+XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##(you-know-what)math.ac.cn    &emsp; ##=last 2 letters of "fei"
 
 
 
