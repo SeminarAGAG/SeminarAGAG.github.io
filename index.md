@@ -10,9 +10,12 @@ If you want to receive annoucements of the seminar talks, please email one of th
 
 ### Organizers
 
-HU Yong (SUSTech, Shenzhen, China) ;  &emsp; &emsp;  First3lettersOf"huyong"@sustech.edu.cn
+HU Yong (SUSTech, Shenzhen) ;  &emsp; &emsp;  First3lettersOf"huyong"(you-know-what)sustech.edu.cn
 
-and ??
+LEE Ting-Yu (NTU, Taiwan);   &emsp; &emsp;  tingyu."mylastname"(you-know-what)gmail.com
+
+XU Fei (CNU, Beijing);   &emsp; &emsp;  xu"myfirstname"(you-know-what)math.ac.cn
+
 
 
 ### Spring Session 2022
