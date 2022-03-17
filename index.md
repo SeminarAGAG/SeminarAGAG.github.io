@@ -10,11 +10,11 @@ If you want to receive annoucements of the seminar talks, please email one of th
 
 ### Organizers
 
-HU Yong (SUSTech, Shenzhen) ;  &emsp; &emsp;  First3lettersOf"huyong"(you-know-what)sustech.edu.cn
+HU Yong (SUSTech, Shenzhen) ;  &emsp; &emsp;  ###(you-know-what)sustech.edu.cn   &emsp; ###=First 3 letters Of "huyong"
 
-LEE Ting-Yu (NTU, Taiwan);   &emsp; &emsp;  tingyu."mylastname"(you-know-what)gmail.com
+LEE Ting-Yu (NTU, Taiwan);   &emsp; &emsp;  tingyu.###(you-know-what)gmail.com   &emsp; ###=my family name
 
-XU Fei (CNU, Beijing);   &emsp; &emsp;  xu"myfirstname"(you-know-what)math.ac.cn
+XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##(you-know-what)math.ac.cn    & emsp; ##=last 2 letters of "fei"
 
 
 
