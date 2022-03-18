@@ -2,7 +2,7 @@
 
 This seminar is focusing on various research topics in arithmetic geometry with special regard to algebraic groups, homogeneous spaces and related structures or problems.
 
-Normally, two talks are expected to be scheduled per month.
+Normally, two talks are expected to be scheduled per month. The date and time of each talk will be flexibly arranged according to the speaker's convenience. 
 
 If you want to receive annoucements of the seminar talks, please email one of the organizers.
 
