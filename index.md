@@ -10,9 +10,9 @@ If you want to receive annoucements of the seminar talks, please email one of th
 
 ### Organizers
 
-HU Yong (SUSTech, Shenzhen) ;  &emsp; &emsp;  ###@sustech.edu.cn   &emsp; ###=First 3 letters Of "huyong"
+HU Yong (SUSTech, Shenzhen) ;  &emsp; &emsp;  ###@sustech.edu.cn   &emsp; ###=first 3 letters of "huyong"
 
-LEE Ting-Yu (NTU, Taiwan);   &emsp; &emsp;  tingyu.###@gmail.com   &emsp; ###=my family name
+TIAN Yisheng (SUSTech, Shenzhen);   &emsp; &emsp;  ####ys@sustech.edu.cn   &emsp; ####=my family name
 
 XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 letters of "fei"
 
