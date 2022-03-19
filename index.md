@@ -22,20 +22,20 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 
 ---------------------------------------------------------------
-Date: 28.03.2022   Time:  15:30--16:30 (Beijing Time)
+**Date**: 28.03.2022   **Time**:  15:30--16:30 (Beijing Time)
 
 or
 
-Date: 28.03.2022   Time:  9:30--10:30 (Paris Time)
+**Date**: 28.03.2022   **Time**:  9:30--10:30 (Paris Time)
 
-Zoom Meeting ID: 967 248 8008
+**Zoom Meeting ID**: 967 248 8008
 
-Passcode: available upon demand
+**Passcode**: available upon demand
 
-Speaker:  Philippe Gille (Université de Lyon 1)
+**Speaker**:  Philippe Gille (Université de Lyon 1)
 
-Title:  R-equivalence for group schemes
+**Title**:  *R-equivalence for group schemes*
 
-Abstract:  This is a report on a joint work with Anastasia Stavrova (St Petersburg). For  a group scheme G over a ring A, we define the R-equivalence on G(A) in a compatible way with the case of algebraic groups. We compute the invariant G(A)/R in the case of a local ring when G is a torus or G is  isotropic semisimple simply connected.
+**Abstract**:  *This is a report on a joint work with Anastasia Stavrova (St Petersburg). For  a group scheme G over a ring A, we define the R-equivalence on G(A) in a compatible way with the case of algebraic groups. We compute the invariant G(A)/R in the case of a local ring when G is a torus or G is  isotropic semisimple simply connected.*
 
 ----------------------------------------------------------------
