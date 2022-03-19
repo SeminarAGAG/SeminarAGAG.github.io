@@ -1,4 +1,4 @@
-## References for talks in Seminar AGAG ##
+## References for talks in Seminar AGAG 
 
 ### Spring 2022 ###
 
