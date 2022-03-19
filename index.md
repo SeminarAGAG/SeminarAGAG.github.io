@@ -23,10 +23,13 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ---------------------------------------------------------------
 Date: 28.03.2022   Time:  15:30--16:30 (Beijing Time)
+
 or
+
 Date: 28.03.2022   Time:  9:30--10:30 (Paris Time)
 
 Zoom Meeting ID: 967 248 8008
+
 Passcode: available upon demand
 
 Speaker:  Philippe Gille (Université de Lyon 1)
