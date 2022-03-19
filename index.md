@@ -38,5 +38,4 @@ or
 
 **Abstract**:  *This is a report on a joint work with Anastasia Stavrova (St Petersburg). For  a group scheme G over a ring A, we define the R-equivalence on G(A) in a compatible way with the case of algebraic groups. We compute the invariant G(A)/R in the case of a local ring when G is a torus or G is  isotropic semisimple simply connected.*
 
-[P. Gille and A. Stavrova, R-Equivalence on Group Schemes](https://arxiv.org/abs/2107.01950)
 ----------------------------------------------------------------
