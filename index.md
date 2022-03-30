@@ -21,7 +21,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 ### Spring Session 2022
 
 
-**The next talk** on Monday, March 28, 2020 (Beijing Time).
+**The next talk** on Tuesday, April 12, 2020 (Beijing Time).
 
 
 
@@ -78,6 +78,7 @@ or
 
 **Abstract**:  *This is a report on a joint work with Anastasia Stavrova (St Petersburg). For  a group scheme G over a ring A, we define the R-equivalence on G(A) in a compatible way with the case of algebraic groups. We compute the invariant G(A)/R in the case of a local ring when G is a torus or G is  isotropic semisimple simply connected.*
 
+[Video recording](https://www.bilibili.com/video/BV1Na41147xc?spm_id_from=333.999.0.0)
 
 Ref: [P. Gille and A. Stavrova, R-Equivalence on Group Schemes](https://arxiv.org/abs/2107.01950)
 ----------------------------------------------------------------
