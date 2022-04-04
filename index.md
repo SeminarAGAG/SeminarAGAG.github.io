@@ -38,11 +38,15 @@ or
 
 **Speaker**:  David Harbater (University of Pennsylvania)
 
-**Title**:  *TBA*
+**Title**:  *Bounding cohomology classes over semi-global fields*
 
-**Abstract**:  *TBA*
+**Abstract**:  *It is a classical problem to relate the period of a Brauer class to its index.  This has been carried out over certain ground fields, including by the
+speaker and collaborators in the case of semi-global fields; i.e. function fields of curves over a complete discretely valued field.  This talk concerns an analog of
+this question, in which one considers higher cohomology classes rather than Brauer classes.  Motivated by work of Saurabh Gosavi on Brauer groups, we also consider the
+simultaneous index of a finite set of cohomology classes in this context.  This is joint work with Julia Hartmann and Daniel Krashen.*
 
 
+Ref: [D. Harbater, J. Hartmann and D. Krashen, Bounding cohomology classes over semiglobal fields](https://arxiv.org/abs/2203.06770)
 ---------------------------------------------------------------
 **Date**: 12.04.2022   **Time**:  19:30--20:30 (Beijing Time)
 
