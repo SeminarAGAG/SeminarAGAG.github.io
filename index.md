@@ -58,13 +58,18 @@ or
 
 **Passcode**: available upon demand
 
-**Speaker**:  Haowen Zhang (Université Paris 6)
+**Speaker**:  Haowen Zhang (Sorbonne Université)
 
-**Title**:  *TBA*
+**Title**:  *Weak approximation for homogeneous spaces over C((X,Y)) or C((X))(Y)*
 
-**Abstract**:  *TBA*
+**Abstract**:  *We study obstructions to weak approximation for connected linear groups and homogeneous spaces with connected or abelian stabilizers over finite
+extensions of C((X, Y)) or function fields of curves over C((X)). We show that for connected linear groups, the usual Brauer--Manin obstruction works as in the case of
+tori, using the same dévissage argument. However, this Brauer--Manin obstruction is not enough for homogeneous spaces, so we should somehow combine the Brauer--Manin
+obstruction with the descent obstruction using torsors under quasi-trivial tori, another natural tool used in the study of such questions, as done by Izquierdo and
+Lucchini Arteche for the study of obstruction to rational points.*
 
 
+Ref: [H. Zhang, Weak approximation for homogeneous spaces over some two-dimensional geometric global fields](https://arxiv.org/abs/2112.05557)
 ---------------------------------------------------------------
 **Date**: 28.03.2022   **Time**:  15:30--16:30 (Beijing Time)
 
