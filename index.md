@@ -21,7 +21,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 ### Spring Session 2022
 
 
-**The next talk** on Tuesday, April 12, 2020 (Beijing Time).
+**The next talk** on Friday, April 15, 2020 (Beijing Time).
 
 
 
@@ -68,6 +68,7 @@ tori, using the same dévissage argument. However, this Brauer--Manin obstructio
 obstruction with the descent obstruction using torsors under quasi-trivial tori, another natural tool used in the study of such questions, as done by Izquierdo and
 Lucchini Arteche for the study of obstruction to rational points.*
 
+[Video recording](https://www.bilibili.com/video/BV1Fr4y1H7dB)
 
 Ref: [H. Zhang, Weak approximation for homogeneous spaces over some two-dimensional geometric global fields](https://arxiv.org/abs/2112.05557)
 ---------------------------------------------------------------
