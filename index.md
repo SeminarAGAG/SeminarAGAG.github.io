@@ -45,9 +45,12 @@ speaker and collaborators in the case of semi-global fields; i.e. function field
 this question, in which one considers higher cohomology classes rather than Brauer classes.  Motivated by work of Saurabh Gosavi on Brauer groups, we also consider the
 simultaneous index of a finite set of cohomology classes in this context.  This is joint work with Julia Hartmann and Daniel Krashen.*
 
+[Video recording](https://www.bilibili.com/video/BV1Pa411v7rV)
 
 Ref: [D. Harbater, J. Hartmann and D. Krashen, Bounding cohomology classes over semiglobal fields](https://arxiv.org/abs/2203.06770)
+
 ---------------------------------------------------------------
+
 **Date**: 12.04.2022   **Time**:  19:30--20:30 (Beijing Time)
 
 or
@@ -71,7 +74,9 @@ Lucchini Arteche for the study of obstruction to rational points.*
 [Video recording](https://www.bilibili.com/video/BV1Fr4y1H7dB)
 
 Ref: [H. Zhang, Weak approximation for homogeneous spaces over some two-dimensional geometric global fields](https://arxiv.org/abs/2112.05557)
+
 ---------------------------------------------------------------
+
 **Date**: 28.03.2022   **Time**:  15:30--16:30 (Beijing Time)
 
 or
@@ -91,4 +96,5 @@ or
 [Video recording](https://www.bilibili.com/video/BV1Na41147xc?spm_id_from=333.999.0.0)
 
 Ref: [P. Gille and A. Stavrova, R-Equivalence on Group Schemes](https://arxiv.org/abs/2107.01950)
+
 ----------------------------------------------------------------
