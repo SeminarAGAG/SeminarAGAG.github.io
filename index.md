@@ -21,7 +21,28 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 ### Spring Session 2022
 
 
-**The next talk** on Friday, April 15, 2020 (Beijing Time).
+**The next talk** on ??day, Date???, 2022 (Beijing Time).
+
+
+---------------------------------------------------------------
+**Date**: 13.06.2022   **Time**:  15:30--16:30 (Beijing Time)
+
+or
+
+**Date**: 13.06.2022   **Time**:  09:30--10:30 (Paris Time)
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**:  Quang-Duc Dao (Sorbonne Université)
+
+**Title**:  *Brauer-Manin obstruction for Markoff-type cubic surfaces*
+
+**Abstract**:  *Following the works by Ghosh and Sarnak; Loughran and Mitankin; Colliot-Thélène, Wei, and Xu, we study the integral Hasse principle and the Brauer-Manin
+obstruction for integral points on similar Markoff-type cubic surfaces. Furthermore, we construct a family of counterexamples to the integral Hasse principle which can
+be explained by the Brauer-Manin obstruction with a greater frequency, compared to the results given by Loughran and Mitankin; Colliot-Thélène, Wei, and Xu..*
+
 
 
 
