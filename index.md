@@ -44,6 +44,7 @@ obstruction for integral points on similar Markoff-type cubic surfaces. Furtherm
 be explained by the Brauer-Manin obstruction with a greater frequency, compared to the results given by Loughran and Mitankin; Colliot-Thélène, Wei, and Xu.*
 
 
+Ref: [Quand-Duc Dao, Brauer-Manin obstruction for Markoff-type cubic surfaces](https://arxiv.org/abs/2202.07142)
 ---------------------------------------------------------------
 **Date**: 16.05.2022   **Time**:  15:30--16:30 (Beijing Time)
 
