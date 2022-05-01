@@ -21,7 +21,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 ### Spring Session 2022
 
 
-**The next talk** on ??day, Date???, 2022 (Beijing Time).
+**The next talk** on Monday, 16 May, 2022 (Beijing Time).
 
 
 ---------------------------------------------------------------
