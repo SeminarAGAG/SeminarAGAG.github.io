@@ -25,6 +25,26 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 
 ---------------------------------------------------------------
+**Date**: 15.06.2022   **Time**:  15:30--16:30 (Beijing Time)
+
+or
+
+**Date**: 15.06.2022   **Time**:  09:30--10:30 (Paris Time)
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**:  Kestutis Cesnavicius (Sorbonne Université)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+
+Ref: 
+
+---------------------------------------------------------------
 **Date**: 13.06.2022   **Time**:  15:30--16:30 (Beijing Time)
 
 or
@@ -45,6 +65,26 @@ be explained by the Brauer-Manin obstruction with a greater frequency, compared 
 
 
 Ref: [Quand-Duc Dao, Brauer-Manin obstruction for Markoff-type cubic surfaces](https://arxiv.org/abs/2202.07142)
+
+
+---------------------------------------------------------------
+**Date**: 10.06.2022   **Time**:  09:00--10:00 (Beijing Time)
+
+or
+
+**Date**: 09.06.2022   **Time**:  21:00--22:00 (New York Time)
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**:  Brendan Hassett (Brown University)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+
 
 ---------------------------------------------------------------
 **Date**: 16.05.2022   **Time**:  15:30--16:30 (Beijing Time)
