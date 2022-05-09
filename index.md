@@ -101,7 +101,7 @@ or
 
 **Title**:  *Nets for fishing absolute Galois pro-p groups*
 
-**Abstract**:  ![Click here](/AGAGquadrelli.pdf)
+**Abstract**:  [Click here](https://seminaragag.github.io/AGAGquadrelli.pdf)
 
 
 ---------------------------------------------------------------
