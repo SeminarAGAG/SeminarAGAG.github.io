@@ -59,9 +59,9 @@ or
 
 **Speaker**:  Claudio Quadrelli (Insubria University)
 
-**Title**:  *TBA*
+**Title**:  *Nets for fishing absolute Galois pro-p groups*
 
-**Abstract**:  *TBA*
+**Abstract**:  ![Click here](/AGAGquadrelli.pdf)
 
 
 ---------------------------------------------------------------
