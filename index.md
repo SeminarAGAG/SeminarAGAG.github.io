@@ -35,7 +35,7 @@ or
 
 **Passcode**: available upon demand
 
-**Speaker**:  Kestutis Cesnavicius (Sorbonne Université)
+**Speaker**:  Kestutis Cesnavicius (Université Paris-Saclay)
 
 **Title**:  *TBA*
 
