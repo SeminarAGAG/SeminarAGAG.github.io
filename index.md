@@ -80,9 +80,9 @@ or
 
 **Speaker**:  Brendan Hassett (Brown University)
 
-**Title**:  *TBA*
+**Title**:  <font color=blue>*TBA*</font>
 
-**Abstract**: *TBA*
+**Abstract**: <font color=blue>*TBA*</font>
 
 
 
