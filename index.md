@@ -21,7 +21,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 ### 2022 Spring Session 
 
 
-**The next talk** on Monday, 16 May, 2022 (Beijing Time).
+**The next talk** on $\color{blue} {Friday, 16 May, 2022 (Beijing Time)}$.
 
 
 ---------------------------------------------------------------
@@ -80,9 +80,9 @@ or
 
 **Speaker**:  Brendan Hassett (Brown University)
 
-**Title**:  *TBA*
+**Title**:  $\color{red} {*TBA*}$
 
-**Abstract**:  *TBA*
+**Abstract**:  $\color{red}{*TBA*}$
 
 
 
@@ -103,6 +103,7 @@ or
 
 **Abstract**:  [Click here](https://seminaragag.github.io/AGAGquadrelli.pdf)
 
+[Video recording](https://www.bilibili.com/video/BV11a411J7Kt)
 
 ---------------------------------------------------------------
 **Date**: 15.04.2022   **Time**:  09:00--10:00 (Beijing Time)
