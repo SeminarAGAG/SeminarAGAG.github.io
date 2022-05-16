@@ -82,7 +82,7 @@ or
 
 **Title**:  *<font color=blue>TBA</font>*
 
-**Abstract**: <font color=blue>*TBA*</font>
+**Abstract**: *<font color=blue>TBA</font>*
 
 
 
