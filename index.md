@@ -105,6 +105,8 @@ or
 
 [Video recording](https://www.bilibili.com/video/BV11a411J7Kt)
 
+[Slides](https://seminaragag.github.io/QuadrelliSlides.pdf)
+
 ---------------------------------------------------------------
 **Date**: 15.04.2022   **Time**:  09:00--10:00 (Beijing Time)
 
