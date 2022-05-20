@@ -25,6 +25,27 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 
 ---------------------------------------------------------------
+**Date** (to be confirmed): 29.06.2022   **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 29.06.2022   **Time**:  09:00--10:00 (London Time)
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**:  Alexei N. Skorobogatov (Imperial College London)
+
+**Title**:  *Reduction of Kummer surfaces*
+
+**Abstract**:  *If a Kummer surface over a discretely valued field of characteristic zero has good reduction, then it comes from an abelian surface with good reduction.
+The converse holds if the residual characteristic is not 2. In a joint work with Chris Lazda we obtain a necessary and sufficient condition for good reduction of
+Kummersurfaces attached to abelian surfaces with good, non-supersingular reduction in residual characteristic 2. We also give a similar criterion for ‘twisted’ Kummer
+surfaces attached to 2-coverings of abelian surfaces. The supersingular case is very interesting but seems to be completely open.*
+
+
+---------------------------------------------------------------
 **Date**: 15.06.2022   **Time**:  15:30--16:30 (Beijing Time)
 
 or
@@ -41,8 +62,6 @@ or
 
 **Abstract**:  *TBA*
 
-
-Ref: 
 
 ---------------------------------------------------------------
 **Date**: 13.06.2022   **Time**:  15:30--16:30 (Beijing Time)
