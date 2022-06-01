@@ -23,6 +23,23 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 **The next talk** on  <font color=blue>Friday, 10 June, 2022 (Beijing Time).</font>
 
+---------------------------------------------------------------
+**Date**: 11.08.2022   **Time**:  09:00--10:00 (Beijing Time)
+
+or
+
+**Date**: 10.08.2022   **Time**:  21:00--22:00 (New York Time)
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**:  Wai Kiu Chan (Wesleyan University)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
 
 ---------------------------------------------------------------
 **Date** (to be confirmed): 29.06.2022   **Time**:  16:00--17:00 (Beijing Time)
@@ -62,28 +79,6 @@ or
 
 **Abstract**:  *TBA*
 
-
----------------------------------------------------------------
-**Date**: 13.06.2022   **Time**:  15:30--16:30 (Beijing Time)
-
-or
-
-**Date**: 13.06.2022   **Time**:  09:30--10:30 (Paris Time)
-
-**Zoom Meeting ID**: 967 248 8008
-
-**Passcode**: available upon demand
-
-**Speaker**:  Quang-Duc Dao (Sorbonne Université)
-
-**Title**:  *Brauer-Manin obstruction for Markoff-type cubic surfaces*
-
-**Abstract**:  *Following the works by Ghosh and Sarnak; Loughran and Mitankin; Colliot-Thélène, Wei, and Xu, we study the integral Hasse principle and the Brauer-Manin
-obstruction for integral points on similar Markoff-type cubic surfaces. Furthermore, we construct a family of counterexamples to the integral Hasse principle which can
-be explained by the Brauer-Manin obstruction with a greater frequency, compared to the results given by Loughran and Mitankin; Colliot-Thélène, Wei, and Xu.*
-
-
-Ref: [Quand-Duc Dao, Brauer-Manin obstruction for Markoff-type cubic surfaces](https://arxiv.org/abs/2202.07142)
 
 
 ---------------------------------------------------------------
