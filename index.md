@@ -94,9 +94,9 @@ or
 
 **Speaker**:  Brendan Hassett (Brown University)
 
-**Title**:  *<font color=blue>TBA</font>*
+**Title**:  *Equivariant rationality questions*
 
-**Abstract**: *<font color=blue>TBA</font>*
+**Abstract**: *Fix a finite group G. We seek to classify varieties with G-action equivariantly birational to a representation of G on affine or projective space. The equivariant rationality problem is analogous to Diophantine questions over nonclosed fields. We explore how invariants -- both classical cohomological invariants and recent symbol constructions -- control rationality in some cases. Universal torsors are a powerful geometric tool for analyzing equivariant stable birational equivalence. (joint with Tschinkel)*
 
 
 
