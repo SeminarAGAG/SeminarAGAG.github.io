@@ -21,7 +21,22 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 ### 2022 Spring Session 
 
 
-**The next talk** on  <font color=blue>Friday, 10 June, 2022 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Friday, 15 June, 2022 (Beijing Time).</font>
+
+
+---------------------------------------------------------------
+**Date** (to be confirmed): 28.09.2022   **Time**:  15:30--16:30 (Beijing Time)
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Vlere Mehmeti (Université Paris-Saclay)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
 
 ---------------------------------------------------------------
 **Date**: 11.08.2022   **Time**:  09:00--10:00 (Beijing Time)
@@ -56,10 +71,10 @@ or
 
 **Title**:  *Reduction of Kummer surfaces*
 
-**Abstract**:  *If a Kummer surface over a discretely valued field of characteristic zero has good reduction, then it comes from an abelian surface with good reduction.
-The converse holds if the residual characteristic is not 2. In a joint work with Chris Lazda we obtain a necessary and sufficient condition for good reduction of
-Kummersurfaces attached to abelian surfaces with good, non-supersingular reduction in residual characteristic 2. We also give a similar criterion for ‘twisted’ Kummer
-surfaces attached to 2-coverings of abelian surfaces. The supersingular case is very interesting but seems to be completely open.*
+**Abstract**:  *If a Kummer surface over a discretely valued field of characteristic zero has good reduction, then it comes from an abelian surface with good 
+reduction.The converse holds if the residual characteristic is not 2. In a joint work with Chris Lazda we obtain a necessary and sufficient condition for good 
+reduction ofKummersurfaces attached to abelian surfaces with good, non-supersingular reduction in residual characteristic 2. We also give a similar criterion for 
+‘twisted’ Kummer surfaces attached to 2-coverings of abelian surfaces. The supersingular case is very interesting but seems to be completely open.*
 
 
 ---------------------------------------------------------------
@@ -98,7 +113,9 @@ or
 
 **Abstract**: *Fix a finite group G. We seek to classify varieties with G-action equivariantly birational to a representation of G on affine or projective space. The equivariant rationality problem is analogous to Diophantine questions over nonclosed fields. We explore how invariants -- both classical cohomological invariants and recent symbol constructions -- control rationality in some cases. Universal torsors are a powerful geometric tool for analyzing equivariant stable birational equivalence. (joint with Tschinkel)*
 
+[Video recording](https://www.bilibili.com/video/BV1bA4y1o78q)
 
+Ref: [B. Hassett and Y. Tschinkel, Torsors and stable equivariant birational geometry](https://arxiv.org/abs/2204.03106)
 
 ---------------------------------------------------------------
 **Date**: 16.05.2022   **Time**:  15:30--16:30 (Beijing Time)
