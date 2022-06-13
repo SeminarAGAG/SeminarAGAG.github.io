@@ -90,9 +90,11 @@ or
 
 **Speaker**:  Kestutis Cesnavicius (Université Paris-Saclay)
 
-**Title**:  *TBA*
+**Title**:  *Reductive group torsors on a complement of a smooth divisor*
 
-**Abstract**:  *TBA*
+**Abstract**:  *A conjecture of Nisnevich predicts that for a smooth variety X over a field, a smooth divisor D in X, and a totally isotropic reductive X-group scheme 
+G, every generically trivial G-torsor on X \ D trivializes Zariski locally on X. I will discuss this conjecture and related questions about torsors under reductive 
+groups over regular rings.*
 
 
 
