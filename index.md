@@ -21,7 +21,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 ### 2022 Spring Session 
 
 
-**The next talk** on  <font color=blue>Wednesday, 15 June, 2022 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Wednesday, 29 June, 2022 (Beijing Time).</font>
 
 
 ---------------------------------------------------------------
@@ -57,7 +57,7 @@ or
 
 
 ---------------------------------------------------------------
-**Date** (to be confirmed): 29.06.2022   **Time**:  16:00--17:00 (Beijing Time)
+**Date** : 29.06.2022   **Time**:  16:00--17:00 (Beijing Time)
 
 or
 
@@ -96,6 +96,10 @@ or
 G, every generically trivial G-torsor on X \ D trivializes Zariski locally on X. I will discuss this conjecture and related questions about torsors under reductive 
 groups over regular rings.*
 
+
+[Video recording](https://www.bilibili.com/video/BV1ba411s7Qy)
+
+Ref: [K.Cesnavivius, The Bass-Quillen phenomenon for reductive group torsors](https://arxiv.org/abs/2204.08233)
 
 
 ---------------------------------------------------------------
