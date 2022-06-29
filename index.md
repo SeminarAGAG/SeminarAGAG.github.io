@@ -21,7 +21,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 ### 2022 Spring Session 
 
 
-**The next talk** on  <font color=blue>Wednesday, 29 June, 2022 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Thursday, 11 August, 2022 (Beijing Time).</font>
 
 
 ---------------------------------------------------------------
@@ -73,9 +73,13 @@ or
 
 **Abstract**:  *If a Kummer surface over a discretely valued field of characteristic zero has good reduction, then it comes from an abelian surface with good 
 reduction.The converse holds if the residual characteristic is not 2. In a joint work with Chris Lazda we obtain a necessary and sufficient condition for good 
-reduction ofKummersurfaces attached to abelian surfaces with good, non-supersingular reduction in residual characteristic 2. We also give a similar criterion for 
+reduction of Kummer surfaces attached to abelian surfaces with good, non-supersingular reduction in residual characteristic 2. We also give a similar criterion for 
 ‘twisted’ Kummer surfaces attached to 2-coverings of abelian surfaces. The supersingular case is very interesting but seems to be completely open.*
 
+
+[Video recording](https://www.bilibili.com/video/BV1cN4y1g7C4)
+
+Ref: [C. Lazda and A. Skorobogatov, Reduction of Kummer surfaces modulo 2 in the non-supersingular case](https://arxiv.org/abs/2205.13831)
 
 ---------------------------------------------------------------
 **Date**: 15.06.2022   **Time**:  15:30--16:30 (Beijing Time)
