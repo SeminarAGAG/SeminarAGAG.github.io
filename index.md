@@ -84,7 +84,7 @@ reduction of Kummer surfaces attached to abelian surfaces with good, non-supersi
 ‘twisted’ Kummer surfaces attached to 2-coverings of abelian surfaces. The supersingular case is very interesting but seems to be completely open.*
 
 
-[Video recording](https://www.bilibili.com/video/BV1cN4y1g7C4)
+[Video recording](https://www.bilibili.com/video/BV1eV4y1478z)
 
 Ref: [C. Lazda and A. Skorobogatov, Reduction of Kummer surfaces modulo 2 in the non-supersingular case](https://arxiv.org/abs/2205.13831)
 
