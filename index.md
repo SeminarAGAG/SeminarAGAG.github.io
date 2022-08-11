@@ -51,10 +51,17 @@ or
 
 **Speaker**:  Wai Kiu Chan (Wesleyan University)
 
-**Title**:  *TBA*
+**Title**:  *On the exceptional sets of integral quadratic forms*
 
-**Abstract**:  *TBA*
+**Abstract**:  *A collection S of equivalence classes of positive definite integral quadratic forms in n variables is called an n-exceptional set if there exists a 
+positive definite integral quadratic form which represents all equivalent classes of positive definite integral quadratic forms in n variables except those in S.  In
+this talk, I will describe a recent joint work with Byeong-Kewon Oh which shows that for any given positive integers m and n, there is always an n-exceptional set of 
+size m and there are only finitely many of them.*
 
+
+[Video recording](https://www.bilibili.com/video/BV1cN4y1g7C4)
+
+Ref: [W. K. Chan and B.-K Oh, On the exceptional sets of integral quadratic forms](https://arxiv.org/abs/2003.11322)
 
 ---------------------------------------------------------------
 **Date** : 29.06.2022   **Time**:  16:00--17:00 (Beijing Time)
