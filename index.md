@@ -59,7 +59,7 @@ this talk, I will describe a recent joint work with Byeong-Kewon Oh which shows 
 size m and there are only finitely many of them.*
 
 
-[Video recording](https://www.bilibili.com/video/BV1cN4y1g7C4)
+[Video recording](https://www.bilibili.com/video/BV1eV4y1478z)
 
 Ref: [W. K. Chan and B.-K Oh, On the exceptional sets of integral quadratic forms](https://arxiv.org/abs/2003.11322)
 
