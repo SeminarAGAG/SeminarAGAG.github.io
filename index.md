@@ -18,14 +18,19 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 
 
-### 2022 Spring Session 
+### 2022 Fall Session 
 
-
-**The next talk** on  <font color=blue>Thursday, 11 August, 2022 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Wednesday, 28 September, 2022 (Beijing Time).</font>
 
 
 ---------------------------------------------------------------
-**Date** (to be confirmed): 28.09.2022   **Time**:  15:30--16:30 (Beijing Time)
+
+**Date**: 28.09.2022   **Time**:  15:30--16:30 (Beijing Time)
+
+or
+
+**Date**: 28.09.2022   **Time**:  09:30--10:30 (Paris Time)
+
 
 **Zoom Meeting ID**: 967 248 8008
 
@@ -39,6 +44,11 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 
 ---------------------------------------------------------------
+
+
+
+### 2022 Spring Session 
+
 **Date**: 11.08.2022   **Time**:  09:00--10:00 (Beijing Time)
 
 or
