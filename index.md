@@ -36,7 +36,7 @@ or
 
 **Passcode**: available upon demand
 
-**Speaker**: Vlere Mehmeti (Université Paris-Saclay)
+**Speaker**: Vlerë Mehmeti (Université Paris-Saclay)
 
 **Title**:  *TBA*
 
