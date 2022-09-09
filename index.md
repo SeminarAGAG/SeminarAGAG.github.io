@@ -7,20 +7,40 @@ Normally, two online talks (via Zoom) are expected to be scheduled per month. Th
 If you want to receive annoucements of the seminar talks, please email one of the organizers.
 
 
-
 ### Organizers
 
-HU Yong (SUSTech, Shenzhen) ;  &emsp; &emsp;  ###@sustech.edu.cn   &emsp; ###=first 3 letters of "huyong"
+CAO Yang (USTC, Hefei);   &emsp; &emsp;  yang###1988@ustc.edu.cn   &emsp; ###=Yang's family name 
+
+[HU Yong](https://math.sustech.edu.cn/c/huyong?lang=en) (SUSTech, Shenzhen) ;  &emsp; &emsp;  ###@sustech.edu.cn   &emsp; ###=first 3 letters of "huyong"
 
 TIAN Yisheng (SUSTech, Shenzhen);   &emsp; &emsp;  ####ys@sustech.edu.cn   &emsp; ####=Yisheng's family name
 
 XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 letters of "fei"
 
 
-
 ### 2022 Fall Session 
 
 **The next talk** on  <font color=blue>Wednesday, 28 September, 2022 (Beijing Time).</font>
+
+
+---------------------------------------------------------------
+
+**Date**: 12.10.2022   **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 12.10.2022   **Time**:  10:00--11:00 (Paris Time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Olivier Wittenberg (Université Sorbonne Paris Nord)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
 
 
 ---------------------------------------------------------------
