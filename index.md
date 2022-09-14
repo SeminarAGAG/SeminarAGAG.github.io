@@ -22,6 +22,26 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 **The next talk** on  <font color=blue>Wednesday, 28 September, 2022 (Beijing Time).</font>
 
+---------------------------------------------------------------
+
+**Date**: 19.10.2022   **Time**:  15:30--16:30 (Beijing Time)
+
+or
+
+**Date**: 19.10.2022   **Time**:  09:30--10:30 (Paris Time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Diego Izquierdo (École Polytechnique)
+
+**Title**:  *Milnor K-theory and zero-cycles over p-adic function fields*
+
+**Abstract**:  *In 1986, Kato and Kuzumaki introduced a set of conjectures in order to characterize the cohomological dimension of fields in diophantine terms. The
+conjectures are known to be wrong in full generality, but they provide interesting arithmetical problems over various usual fields in arithmetic geometry. The goal of
+this talk is to discuss the case of function fields of p-adic curves. This is joint work with G. Lucchini Arteche.*
 
 ---------------------------------------------------------------
 
