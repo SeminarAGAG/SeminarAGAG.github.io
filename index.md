@@ -76,11 +76,13 @@ or
 
 **Passcode**: available upon demand
 
-**Speaker**: Vlerë Mehmeti (Université Paris-Saclay)
+**Speaker**: Vlerë Mehmeti (Sorbonne Université)
 
-**Title**:  *TBA*
+**Title**:  *Patching on analytic fibers and local-global principles*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Patching techniques have become an important tool for proving local-global principles over function fields of curves. These principles provide a way to
+study the existence of rational points on varieties. I will explain how using non-archimedean analytic spaces and patching techniques on them one obtains an approach
+to local-global principles in higher dimensional settings. The talk will begin with a brief introduction of the objects that will be used.*
 
 
 ---------------------------------------------------------------
