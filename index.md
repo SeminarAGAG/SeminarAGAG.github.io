@@ -20,7 +20,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2022 Fall Session 
 
-**The next talk** on  <font color=blue>Wednesday, 28 September, 2022 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Wednesday, 12 October, 2022 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -84,6 +84,16 @@ or
 study the existence of rational points on varieties. I will explain how using non-archimedean analytic spaces and patching techniques on them one obtains an approach
 to local-global principles in higher dimensional settings. The talk will begin with a brief introduction of the objects that will be used.*
 
+
+[Video recording](https://www.bilibili.com/video/BV1V14y1a7VH)
+
+Ref: 
+
+V. Mehmeti, Patching over analytic fibers and the local-global principle. Math. Ann. 383, No. 3-4, 1825-1904 (2022).
+
+or
+
+[arXiv version](https://arxiv.org/abs/1911.00146)
 
 ---------------------------------------------------------------
 
