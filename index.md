@@ -58,9 +58,12 @@ or
 
 **Speaker**: Olivier Wittenberg (Université Sorbonne Paris Nord)
 
-**Title**:  *TBA*
+**Title**:  *Rational points and fibrations of small rank*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Given a family of rationally connected varieties over the projective line, the fibration method aims at constructing rational points on the total
+space. We revisit this method and make it work fully when the locus of non-split fibres has degree at most 2, as well as, under Schinzel's hypothesis, when the bad
+fibres are split by a cyclic extension.  We do not make any arithmetic assumption on the smooth fibres, thus solving a problem left open since the 1990's.  This is a 
+joint work with Yonatan Harpaz and Dasheng Wei.*
 
 
 ---------------------------------------------------------------
