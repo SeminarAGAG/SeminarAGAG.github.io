@@ -20,7 +20,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2022 Fall Session 
 
-**The next talk** on  <font color=blue>Wednesday, 12 October, 2022 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Wednesday, 19 October, 2022 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -65,6 +65,11 @@ space. We revisit this method and make it work fully when the locus of non-split
 fibres are split by a cyclic extension.  We do not make any arithmetic assumption on the smooth fibres, thus solving a problem left open since the 1990's.  This is a 
 joint work with Yonatan Harpaz and Dasheng Wei.*
 
+
+
+[Video recording](https://www.bilibili.com/video/BV1pR4y1X7ta)
+
+Ref: [Y. Harpaz, D. Wei and O. Wittenberg, Rational points on fibrations with few non-split fibres](https://www.math.univ-paris13.fr/~wittenberg/hww.pdf)
 
 ---------------------------------------------------------------
 
