@@ -24,6 +24,26 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ---------------------------------------------------------------
 
+**Date**: 24.11.2022   **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 24.11.2022   **Time**:  09:00--10:00 (Paris Time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: François Charles (École normale supérieure Paris - Université Paris-Saclay)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+-------------------------------------------------------
+
+
 **Date**: 19.10.2022   **Time**:  15:30--16:30 (Beijing Time)
 
 or
