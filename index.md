@@ -69,6 +69,8 @@ this talk is to discuss the case of function fields of p-adic curves. This is jo
 Ref: [D. Izquierdo and G. Lucchini Arteche, On Kato and Kuzumaki's properties for the Milnor K2 of function fields of p-adic curves](https://arxiv.org/abs/2206.04214)
 
 
+[Lecture Notes](https://seminaragag.github.io/QuadrelliSlides.pdf)
+
 ---------------------------------------------------------------
 
 **Date**: 12.10.2022   **Time**:  16:00--17:00 (Beijing Time)
