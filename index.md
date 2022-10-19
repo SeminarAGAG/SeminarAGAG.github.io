@@ -63,6 +63,12 @@ or
 conjectures are known to be wrong in full generality, but they provide interesting arithmetical problems over various usual fields in arithmetic geometry. The goal of
 this talk is to discuss the case of function fields of p-adic curves. This is joint work with G. Lucchini Arteche.*
 
+
+[Video recording](https://www.bilibili.com/video/BV1jD4y1r7KC)
+
+Ref: [D. Izquierdo and G. Lucchini Arteche, On Kato and Kuzumaki's properties for the Milnor K2 of function fields of p-adic curves](https://arxiv.org/abs/2206.04214)
+
+
 ---------------------------------------------------------------
 
 **Date**: 12.10.2022   **Time**:  16:00--17:00 (Beijing Time)
