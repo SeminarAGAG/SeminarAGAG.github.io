@@ -24,6 +24,44 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ---------------------------------------------------------------
 
+**Date**: 14.12.2022   **Time**:  16:30--17:30 (Beijing Time)
+
+or
+
+**Date**: 14.12.2022   **Time**:  09:30--10:30 (Paris Time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Nguyen Manh Linh (Université Paris-Saclay)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+---------------------------------------------------------------
+
+**Date**: 07.12.2022   **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 07.12.2022   **Time**:  09:00--10:00 (Paris Time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Jean-Louis Colliot-Thélène (Université Paris-Saclay)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+---------------------------------------------------------------
+
 **Date**: 24.11.2022   **Time**:  16:00--17:00 (Beijing Time)
 
 or
