@@ -77,10 +77,10 @@ or
 
 **Title**:  *Some uniform bounds for Chow groups and Brauer groups*
 
-**Abstract**:  *Let $X\rightarrow S$ be a smooth projective family defined over a number field. Various conjectures on algebraic cycles predict that some invariants of
-the closed fibers of this family, be they Mordell-Weil ranks, Chow groups or Brauer groups, satisfy some finiteness conditions. The goal of this talk is to investigate
-what sort of uniformity can be expected from these finiteness conditions. We will focus on the case of Brauer groups (joint work with Cadoret) and Chow groups in
-codimension 2 (joint work with Pirutka). *
+**Abstract**:  *Let* $X\rightarrow S$ *be a smooth projective family defined over a number field. Various conjectures on algebraic cycles predict that some invariants
+of the closed fibers of this family, be they Mordell-Weil ranks, Chow groups or Brauer groups, satisfy some finiteness conditions. The goal of this talk is to
+investigate what sort of uniformity can be expected from these finiteness conditions. We will focus on the case of Brauer groups (joint work with Cadoret) and Chow
+groups in codimension 2 (joint work with Pirutka). *
 
 -------------------------------------------------------
 
