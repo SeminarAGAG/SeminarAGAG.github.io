@@ -56,9 +56,13 @@ or
 
 **Speaker**: Jean-Louis Colliot-Thélène (Université Paris-Saclay)
 
-**Title**:  *TBA*
+**Title**:  *On the arithmetic of intersections of two quadrics*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Lichtenbaum proved that index and period coincide for a curve of genus one over a $p$-adic field. Salberger proved that the Hasse principle holds for a
+smooth complete intersection of two quadrics  $X \subset P^n$  over a number field, if it contains a conic and if $n\geq 5$. Building upon these two results, we extend 
+recent results of Creutz and Viray (2021) on the existence of a quadratic point on intersections of two quadrics over $p$-adic fields and number fields.  We then 
+recover  Heath-Brown's theorem (2018)  that the Hasse principle holds for smooth complete intersections of two quadrics in $P^7$. We also give an alternate proof of a 
+theorem of Iyer and Parimala (2022)  on the local-global principle in the case $n=5$.*
 
 ---------------------------------------------------------------
 
