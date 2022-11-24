@@ -20,7 +20,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2022 Fall Session 
 
-**The next talk** on  <font color=blue>Thursday, 24 November, 2022 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Wednesday, 7 December, 2022 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
