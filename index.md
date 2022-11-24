@@ -64,6 +64,10 @@ recent results of Creutz and Viray (2021) on the existence of a quadratic point 
 recover  Heath-Brown's theorem (2018)  that the Hasse principle holds for smooth complete intersections of two quadrics in $P^7$. We also give an alternate proof of a 
 theorem of Iyer and Parimala (2022)  on the local-global principle in the case $n=5$.*
 
+
+Ref: [J.-L. Colliot-Thélène, Retour sur l'arithmétique des intersections de deux quadriques, avec un appendice par A. Kuznestov](https://arxiv.org/abs/2208.04121)
+
+
 ---------------------------------------------------------------
 
 **Date**: 24.11.2022   **Time**:  16:00--17:00 (Beijing Time)
@@ -85,6 +89,13 @@ or
 invariants of the closed fibers of this family, be they Mordell-Weil ranks, Chow groups or Brauer groups, satisfy some finiteness conditions. The goal of this talk is
 to investigate what sort of uniformity can be expected from these finiteness conditions. We will focus on the case of Brauer groups (joint work with Cadoret) and Chow
 groups in codimension 2 (joint work with Pirutka).* 
+
+
+[Video recording](https://www.bilibili.com/video/BV12Y411R7ki)
+
+Ref: [F. Charles and A. Pirutka, Finitude uniforme pour les cycles de codimension 2 sur les corps de nombres](https://arxiv.org/abs/2207.05805)
+
+A. Cadoret and F. Charles, A remark on uniform boundedness for Brauer groups, Algebraic Geometry 7 (2020), pp. 512-522.
 
 -------------------------------------------------------
 
