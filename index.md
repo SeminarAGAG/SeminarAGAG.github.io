@@ -71,7 +71,7 @@ Generalizing the Brauer-Manin obstruction over number fields, we may use the gro
 WA ("reciprocity obstruction"). It is natural to ask if this obstruction is the only one. Using global duality Poitou-Tate style duality theorem and parts of Poitou
 -Tate sequences, Harari, Scheiderer, Szamuely, and Izquierdo provided the positive answer for tori. Tian established the same result for certain reductive groups.
 In my talk, I shall present similar results for homogeneous spaces of SLn with geometric stabilizers of type umult (extension of a group of multiplicative type by a
-unipotent group), obtained by the same techniques. This is my latest preprint https://arxiv.org/abs/2211.08986.*
+unipotent group), obtained by the same techniques. This is my latest preprint [https://arxiv.org/abs/2211.08986](https://arxiv.org/abs/2211.08986).*
 
 
 
