@@ -22,6 +22,28 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 **The next talk** on  <font color=blue>Wednesday, 7 December, 2022 (Beijing Time).</font>
 
+
+
+---------------------------------------------------------------
+
+**Date**: 19.12.2022   **Time**:  15:00--16:00 (Beijing Time)
+
+or
+
+**Date**: 19.12.2022   **Time**:  16:00--17:00 (Tokyo Time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Takashi Suzuki (Chuo University)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+
 ---------------------------------------------------------------
 
 **Date**: 14.12.2022   **Time**:  16:30--17:30 (Beijing Time)
