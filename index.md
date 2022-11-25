@@ -59,9 +59,24 @@ or
 
 **Speaker**: Nguyen Manh Linh (Université Paris-Saclay)
 
-**Title**:  *TBA*
+**Title**:  *Arithmetics of homogeneous spaces over p-adic function fields*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Let K be the function field of a p-adic curve, a field of cohomological dimension 3. If X is a smooth geometrically integral K-variety, we are
+interested in the following arithmetic questions for X:
+
+- Local-global principle (LGP): If X has K_v-points for all closed points on a smooth projective model of K, does X have K-points?
+- Weak approximation (WA): If X has K-points, is X(K) dense in the topological product of the X(K_v)'s?
+
+Generalizing the Brauer-Manin obstruction over number fields, we may use the group H^3_nr(X, Q/Z(2)) of unramified degree 3 cohomology to detect the failure of LGP and
+WA ("reciprocity obstruction"). It is natural to ask if this obstruction is the only one. Using global duality Poitou-Tate style duality theorem and parts of Poitou
+-Tate sequences, Harari, Scheiderer, Szamuely, and Izquierdo provided the positive answer for tori. Tian established the same result for certain reductive groups.
+In my talk, I shall present similar results for homogeneous spaces of SLn with geometric stabilizers of type umult (extension of a group of multiplicative type by a
+unipotent group), obtained by the same techniques. This is my latest preprint https://arxiv.org/abs/2211.08986.*
+
+
+
+
+Ref: [Nguyen Manh Linh, Arithmetics of homogeneous spaces over p-adic function fields](https://arxiv.org/abs/2211.08986)
 
 ---------------------------------------------------------------
 
