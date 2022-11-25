@@ -65,6 +65,7 @@ or
 interested in the following arithmetic questions for X:*
 
 *- Local-global principle (LGP): If X has K_v-points for all closed points on a smooth projective model of K, does X have K-points?*
+
 *- Weak approximation (WA): If X has K-points, is X(K) dense in the topological product of the X(K_v)'s?*
 
 *Generalizing the Brauer-Manin obstruction over number fields, we may use the group H^3_nr(X, Q/Z(2)) of unramified degree 3 cohomology to detect the failure of LGP
