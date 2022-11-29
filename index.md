@@ -39,10 +39,16 @@ or
 
 **Speaker**: Takashi Suzuki (Chuo University)
 
-**Title**:  *TBA*
+**Title**:  *Class field theory, Hasse principles and Picard-Brauer duality for two-dimensional local rings*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Saito gives class field theory and arithmetic duality for two-dimensional normal local rings with finite residue field. On the other hand, Serre and
+Hazewinkel give a geometric class field theory for local fields with general perfect residue field. In this talk, I will explain my work on a geometric refinement of
+Saito's two-dimensional theory in Serre-Hazewinkel's style. It treats two-dimensional normal local rings of mixed characteristic with general perfect residue field and
+gives the relevant arithmetic invariants certain structures as ind-pro-algebraic groups. We construct class field theory, Hasse principles and Picard-Brauer duality
+taking these structures into account.*
 
+
+Ref: [T. Suzuki, Class field theory, Hasse principles and Picard-Brauer duality for two-dimensional local rings](https://arxiv.org/abs/2210.01396)
 
 ---------------------------------------------------------------
 
