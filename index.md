@@ -112,6 +112,8 @@ theorem of Iyer and Parimala (2022)  on the local-global principle in the case $
 Ref: [J.-L. Colliot-Thélène, Retour sur l'arithmétique des intersections de deux quadriques, avec un appendice par A. Kuznestov](https://arxiv.org/abs/2208.04121)
 
 
+[Slides](https://www.imo.universite-paris-saclay.fr/~jean-louis.colliot-thelene/expoShenzhen7dec22.pdf)
+
 ---------------------------------------------------------------
 
 **Date**: 24.11.2022   **Time**:  16:00--17:00 (Beijing Time)
