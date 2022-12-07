@@ -107,6 +107,8 @@ recover  Heath-Brown's theorem (2018)  that the Hasse principle holds for smooth
 theorem of Iyer and Parimala (2022)  on the local-global principle in the case $n=5$.*
 
 
+[Video recording](https://www.bilibili.com/video/BV1BG4y1R7bJ)
+
 Ref: [J.-L. Colliot-Thélène, Retour sur l'arithmétique des intersections de deux quadriques, avec un appendice par A. Kuznestov](https://arxiv.org/abs/2208.04121)
 
 
