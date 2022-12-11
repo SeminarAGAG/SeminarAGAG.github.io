@@ -27,7 +27,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 or
 
-**Date**: 05.01.2022   **Time**:  11:00--12:00 (Tokyo Time)
+**Date**: 05.01.2023   **Time**:  11:00--12:00 (Tokyo Time)
 
 
 **Zoom Meeting ID**: 967 248 8008
@@ -38,7 +38,7 @@ or
 
 **Title**:  *TBA*
 
-**Abstract**:  *TBA.*
+**Abstract**:  *TBA*
 
 
 Ref: 
