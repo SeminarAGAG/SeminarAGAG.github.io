@@ -23,6 +23,25 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 **The next talk** on  <font color=blue>Wednesday, 14 December, 2022 (Beijing Time).</font>
 
 
+**Date**: 05.01.2023   **Time**:  10:00--11:00 (Beijing Time)
+
+or
+
+**Date**: 05.01.2022   **Time**:  11:00--12:00 (Tokyo Time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Thomas H. Geisser (Rikkyo University)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA.*
+
+
+Ref: 
 
 ---------------------------------------------------------------
 
