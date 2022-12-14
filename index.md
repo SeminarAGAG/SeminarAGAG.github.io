@@ -20,7 +20,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2022 Fall Session 
 
-**The next talk** on  <font color=blue>Wednesday, 14 December, 2022 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Monday, 19 December, 2022 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -100,6 +100,8 @@ Poitou-Tate sequences, Harari, Scheiderer, Szamuely, and Izquierdo provided the 
 groups. In my talk, I shall present similar results for homogeneous spaces of SLn with geometric stabilizers of type umult (extension of a group of multiplicative type
 by a unipotent group), obtained by the same techniques. This is my latest preprint [https://arxiv.org/abs/2211.08986](https://arxiv.org/abs/2211.08986).*
 
+
+[Video recording](https://www.bilibili.com/video/BV1xA41197Qy)
 
 Ref: [Nguyen Manh Linh, Arithmetics of homogeneous spaces over p-adic function fields](https://arxiv.org/abs/2211.08986)
 
