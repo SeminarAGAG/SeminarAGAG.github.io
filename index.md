@@ -68,7 +68,7 @@ gives the relevant arithmetic invariants certain structures as ind-pro-algebraic
 taking these structures into account.*
 
 
-
+[Video recording](https://www.bilibili.com/video/BV1iR4y1k7Ka)
 
 Ref: [T. Suzuki, Class field theory, Hasse principles and Picard-Brauer duality for two-dimensional local rings](https://arxiv.org/abs/2210.01396)
 
