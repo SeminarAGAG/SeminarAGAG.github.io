@@ -20,7 +20,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2022 Fall Session 
 
-**The next talk** on  <font color=blue>Monday, 19 December, 2022 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Thursday, 5 January, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -68,7 +68,11 @@ gives the relevant arithmetic invariants certain structures as ind-pro-algebraic
 taking these structures into account.*
 
 
+[Video recording](https://www.bilibili.com/video/BV11a411J7Kt)
+
 Ref: [T. Suzuki, Class field theory, Hasse principles and Picard-Brauer duality for two-dimensional local rings](https://arxiv.org/abs/2210.01396)
+
+[Slides](https://seminaragag.github.io/SuzukiTalk2022-12-19.pdf)
 
 ---------------------------------------------------------------
 
