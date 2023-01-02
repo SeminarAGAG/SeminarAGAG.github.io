@@ -37,9 +37,11 @@ or
 
 **Speaker**: Thomas H. Geisser (Rikkyo University)
 
-**Title**:  *TBA*
+**Title**:  *Brauer groups and Neron-Severi groups of surfaces over finite fields*
 
-**Abstract**:  *TBA*
+**Abstract**:  *For a smooth and proper surface over a finite field, the formula of Artin and Tate relates the behaviour of the zeta-function at $1$ to other
+invariants of the surface. We give a version of the formula which equates invariants related to the Brauer group to invariants to the Neron-Severi group. To illustrate
+our results we give some applications for abelian surfaces.*
 
 
 Ref: 
