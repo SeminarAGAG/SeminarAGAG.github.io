@@ -43,6 +43,7 @@ or
 invariants of the surface. We give a version of the formula which equates invariants related to the Brauer group to invariants to the Neron-Severi group. To illustrate
 our results we give some applications for abelian surfaces.*
 
+[Video recording](https://www.bilibili.com/video/BV1x84y1e7tS)
 
 Ref: 
 
