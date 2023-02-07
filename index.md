@@ -22,7 +22,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Spring Session 
 
-**The next talk** on  <font color=blue>Thursday, 5 January, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Wednesday, 15 March, 2023 (Beijing Time).</font>
 
 
 
