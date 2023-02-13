@@ -25,7 +25,28 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 **The next talk** on  <font color=blue>Wednesday, 15 March, 2023 (Beijing Time).</font>
 
 
+---------------------------------------------------------------
 
+**Date**: 23.03.2023   **Time**:  09:00--10:00 (Beijing Time)
+
+or
+
+**Date**: 22.03.2023   **Time**:  20:00--21:00 (Atlanta Time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Roman Parimala (Emory University)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+
+
+Ref: 
 
 ---------------------------------------------------------------
 
