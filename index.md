@@ -26,6 +26,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 
 
+
 ---------------------------------------------------------------
 
 **Date**: 15.03.2023   **Time**:  16:00--17:00 (Beijing Time)
@@ -45,7 +46,7 @@ or
 
 **Abstract**:  *TBA*
 
-[Video recording](https://www.bilibili.com/video/BV1x84y1e7tS)
+
 
 Ref: 
 
