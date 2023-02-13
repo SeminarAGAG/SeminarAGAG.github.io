@@ -38,7 +38,7 @@ or
 
 **Passcode**: available upon demand
 
-**Speaker**: Roman Parimala (Emory University)
+**Speaker**: Raman Parimala (Emory University)
 
 **Title**:  *TBA*
 
