@@ -65,7 +65,15 @@ or
 
 **Title**:  *Galois cohomology of reductive groups over global fields*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Let G be a connected reductive group over a global field F (a number field or a global function field). Let M=\pi_1(G) denote the “algebraic
+fundamental group” of G, which is a certain finitely generated abelian group endowed with an action of the absolute Galois group Gal(F^s/F).  Using and generalizing
+a result of Tate for tori, we give a closed formula for the Galois cohomology set  H^1(F,G)  in terms of the Galois module M and the Galois cohomology sets H^1(F_v,G)
+for the “real” places v of F.*
+
+*Moreover, let T be a torus  over a global field F and let M=\pi_1(T)=X_{\star}(T) denote the cocharacter group of T. We give a closed formula for H^2(F,T) in terms of
+the Galois module M.*
+
+*This is a joint work with Tasho Kaletha.TBA*
 
 
 
