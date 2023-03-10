@@ -77,7 +77,7 @@ the Galois module M.*
 
 
 
-Ref: 
+Ref: Mikhail Borovoi, Tasho Kaletha, *Galois cohomology of reductive groups over global fields*,  
 
 ---------------------------------------------------------------
 
