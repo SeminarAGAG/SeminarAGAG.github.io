@@ -24,6 +24,28 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 **The next talk** on  <font color=blue>Wednesday, 15 March, 2023 (Beijing Time).</font>
 
+---------------------------------------------------------------
+
+**Date**: 24.04.2023   **Time**:  15:30--16:30 (Beijing Time)
+
+or
+
+**Date**: 24.04.2023   **Time**:  09:30--10:30 (Prague/CEST Time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Nicolas Daans (University)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+
+
+Ref: 
 
 ---------------------------------------------------------------
 
@@ -76,8 +98,7 @@ the Galois module M.*
 *This is a joint work with Tasho Kaletha.TBA*
 
 
-
-Ref: Mikhail Borovoi, Tasho Kaletha, *Galois cohomology of reductive groups over global fields*,  
+Ref: [Mikhail Borovoi, Tasho Kaletha, Galois cohomology of reductive groups over global fields](https://arxiv.org/abs/2303.04120)
 
 ---------------------------------------------------------------
 
