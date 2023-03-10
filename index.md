@@ -95,7 +95,7 @@ for the “real” places v of F.*
 *Moreover, let T be a torus  over a global field F and let M=\pi_1(T)=X_{\star}(T) denote the cocharacter group of T. We give a closed formula for H^2(F,T) in terms of
 the Galois module M.*
 
-*This is a joint work with Tasho Kaletha.TBA*
+*This is a joint work with Tasho Kaletha.*
 
 
 Ref: [Mikhail Borovoi, Tasho Kaletha, Galois cohomology of reductive groups over global fields](https://arxiv.org/abs/2303.04120)
