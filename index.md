@@ -37,7 +37,7 @@ or
 
 **Passcode**: available upon demand
 
-**Speaker**: Nicolas Daans (University)
+**Speaker**: Nicolas Daans (Charles University)
 
 **Title**:  *TBA*
 
