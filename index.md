@@ -62,13 +62,15 @@ or
 
 **Speaker**: Raman Parimala (Emory University)
 
-**Title**:  *TBA*
+**Title**:  *Hasse principle over semiglobal fields*
 
-**Abstract**:  *TBA*
+**Abstract**:  *We review results on the  Hasse principle for homogeneous spaces under connected linear algebraic groups over function fields of curves over complete
+discrete valued fields. We  present a  recent result on the Hasse principle for projective homogeneous spaces under connected reductive groups over such fields. (Joint
+work with Philippe Gille.)*
 
 
+Ref: [Philippe Gille, Raman Parimala, A local-global principle for twisted flag varieties](https://arxiv.org/abs/2301.07572)
 
-Ref: 
 
 ---------------------------------------------------------------
 
