@@ -22,7 +22,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Spring Session 
 
-**The next talk** on  <font color=blue>Wednesday, 15 March, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Thursday, 23 March, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -99,6 +99,8 @@ the Galois module M.*
 
 *This is a joint work with Tasho Kaletha.*
 
+
+[Video recording](https://www.bilibili.com/video/BV1FM4y1k79r)
 
 Ref: [Mikhail Borovoi, Tasho Kaletha, Galois cohomology of reductive groups over global fields](https://arxiv.org/abs/2303.04120)
 
