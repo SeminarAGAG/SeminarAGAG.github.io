@@ -104,6 +104,8 @@ the Galois module M.*
 
 Ref: [Mikhail Borovoi, Tasho Kaletha, Galois cohomology of reductive groups over global fields](https://arxiv.org/abs/2303.04120)
 
+[Slides](https://seminaragag.github.io/AGAG-230315.pdf)
+
 ---------------------------------------------------------------
 
 **Date**: 05.01.2023   **Time**:  10:00--11:00 (Beijing Time)
