@@ -22,7 +22,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Spring Session 
 
-**The next talk** on  <font color=blue>Thursday, 23 March, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Monday, 24 April, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -68,6 +68,8 @@ or
 discrete valued fields. We  present a  recent result on the Hasse principle for projective homogeneous spaces under connected reductive groups over such fields. (Joint
 work with Philippe Gille.)*
 
+
+Video recording: please contact the organizers
 
 Ref: [Philippe Gille, Raman Parimala, A local-global principle for twisted flag varieties](https://arxiv.org/abs/2301.07572)
 
