@@ -22,7 +22,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Spring Session 
 
-**The next talk** on  <font color=blue>Monday, 24 April, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Monday, 17 April, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -38,6 +38,29 @@ or
 **Passcode**: available upon demand
 
 **Speaker**: Nicolas Daans (Charles University)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+
+
+Ref: 
+
+---------------------------------------------------------------
+
+**Date**: 17.04.2023   **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 17.04.2023   **Time**:  10:00--11:00 (Paris Time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Julian Lawrence Demeio (University of Basel)
 
 **Title**:  *TBA*
 
