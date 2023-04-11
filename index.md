@@ -62,13 +62,15 @@ or
 
 **Speaker**: Julian Lawrence Demeio (University of Basel)
 
-**Title**:  *TBA*
+**Title**:  *Weak weak approximation on Del Pezzo surfaces of low degree*
 
-**Abstract**:  *TBA*
+**Abstract**:  *In recent joint work with Sam Streeter and Rosa Winter, we show that weak weak approximation holds for Del Pezzo surfaces of degree 2 (over a number
+field) with a rational point not lying on the ramification curve or on the intersection of 4 exceptional curves. To prove this, we use two geometric “procedures” to
+produce rational points on the surface. The points obtained by a certain iteration of these two procedures are parametrized by a rational higher-dimensional cover of
+the surface, and we deduce our result by proving the arithmetic surjectivity of the morphism defining the cover.*
 
 
-
-Ref: 
+Ref: [J. Demeio, S. Streeter and R. Winter. Weak weak approximation and the Hilbert property for degree-two del Pezzo surfaces](https://arxiv.org/abs/2303.09299)
 
 ---------------------------------------------------------------
 
@@ -94,7 +96,7 @@ work with Philippe Gille.)*
 
 Video recording: please contact the organizers
 
-Ref: [Philippe Gille, Raman Parimala, A local-global principle for twisted flag varieties](https://arxiv.org/abs/2301.07572)
+Ref: [P. Gille and R. Parimala, A local-global principle for twisted flag varieties](https://arxiv.org/abs/2301.07572)
 
 
 ---------------------------------------------------------------
@@ -127,7 +129,7 @@ the Galois module M.*
 
 [Video recording](https://www.bilibili.com/video/BV1FM4y1k79r)
 
-Ref: [Mikhail Borovoi, Tasho Kaletha, Galois cohomology of reductive groups over global fields](https://arxiv.org/abs/2303.04120)
+Ref: [M. Borovoi and T. Kaletha, Galois cohomology of reductive groups over global fields](https://arxiv.org/abs/2303.04120)
 
 [Slides](https://seminaragag.github.io/AGAG-230315.pdf)
 
