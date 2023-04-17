@@ -22,7 +22,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Spring Session 
 
-**The next talk** on  <font color=blue>Monday, 17 April, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Monday, 24 April, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -75,6 +75,7 @@ field) with a rational point not lying on the ramification curve or on the inter
 produce rational points on the surface. The points obtained by a certain iteration of these two procedures are parametrized by a rational higher-dimensional cover of
 the surface, and we deduce our result by proving the arithmetic surjectivity of the morphism defining the cover.*
 
+[Video recording](https://www.bilibili.com/video/BV1iM4y1y7KE)
 
 Ref: [J. Demeio, S. Streeter and R. Winter. Weak weak approximation and the Hilbert property for degree-two del Pezzo surfaces](https://arxiv.org/abs/2303.09299)
 
