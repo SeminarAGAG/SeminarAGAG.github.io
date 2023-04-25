@@ -22,7 +22,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Spring Session 
 
-**The next talk** on  <font color=blue>Monday, 24 April, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue>??, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -50,6 +50,7 @@ where K(X) is a rational function field over K. We also do not know of any examp
 Becher, David Grimm, Gonzalo Manzano-Flores, and Marco Zaninelli, in which we prove for an arbitrary field K that, if p(K(X)) = 2 (the lowest possible value), then
 p(L) is at most 5 for any finite field extension L of K(X), thereby providing a step in the direction of this open question.*
 
+[Video recording](https://www.bilibili.com/video/BV1Wh4y1n7gc)
 
 Ref: [K.J. Becher, N. Daans, D. Grimm, G. Manzano-Flores, M. Zaninelli, The Pythagoras number of a rational function field in two variables](https://arxiv.org/abs/2302.11425)
 
