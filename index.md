@@ -22,7 +22,30 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Spring Session 
 
-**The next talk** on  <font color=blue>??, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue>Monday, May 29th, 2023 (Beijing Time).</font>
+
+
+---------------------------------------------------------------
+
+**Date**: 29.05.2023   **Time**:  16:30--17:30 (Beijing Time)
+
+or
+
+**Date**: 29.05.2023   **Time**:  09:30--10:30 (London Time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Damián Gvirtz-Chen (University of Glasgow)
+
+**Title**:  *Surfaces defined by pairs of polynomials*
+
+**Abstract**:  *Surfaces in P4 defined by a pair of polynomials over a finitely generated field of characteristic zero are relevant to the study of rational 
+points because their Brauer group is known to be finite up to constants. Via a topological deformation to the diagonal case we determine these Brauer 
+groups provided our surface is, in an appropriate sense, sufficiently general. This generalises previous results obtained by Colliot-Thélène--Kanevsky--
+Sansuc, Bright, Uematsu and Santens. (Joint work with A. N. Skorobogatov.)*
 
 ---------------------------------------------------------------
 
@@ -41,14 +64,15 @@ or
 
 **Title**:  *The Pythagoras number of function fields*
 
-**Abstract**:  *The Pythagoras number of a field K is the smallest natural number n such that every sum of squares of elements of K is a sum of n squares of elements
-of K, or infinity, if such a natural number does not exist. Let us denote the Pythagoras number of K by p(K). Any non-zero natural number (and infinity) is the
-Pythagoras number of some field. Very little is known about the behaviour of the Pythagoras number under field extensions, in particular how quickly and freely the
-Pythagoras number can grow. For example, when L/K is a finite field extension, we only in general know that p(L) is bounded by [L : K]p(K), but in practice, we do not
-know of any example where p(L) > p(K) + 2 when L/K is a finite field extension. A related open question is whether, when p(K) is finite, then also p(K(X)) is finite,
-where K(X) is a rational function field over K. We also do not know of any example where p(K(X)) > p(K) + 2. In this talk, I discuss joint work with Karim Johannes
-Becher, David Grimm, Gonzalo Manzano-Flores, and Marco Zaninelli, in which we prove for an arbitrary field K that, if p(K(X)) = 2 (the lowest possible value), then
-p(L) is at most 5 for any finite field extension L of K(X), thereby providing a step in the direction of this open question.*
+**Abstract**:  *The Pythagoras number of a field K is the smallest natural number n such that every sum of squares of elements of K is a sum of n squares of 
+elements of K, or infinity, if such a natural number does not exist. Let us denote the Pythagoras number of K by p(K). Any non-zero natural number (and 
+infinity) is the Pythagoras number of some field. Very little is known about the behaviour of the Pythagoras number under field extensions, in particular how 
+quickly and freely the Pythagoras number can grow. For example, when L/K is a finite field extension, we only in general know that p(L) is bounded by
+[L : K]p(K), but in practice, we do not know of any example where p(L) > p(K) + 2 when L/K is a finite field extension. A related open question is whether, 
+when p(K) is finite, then also p(K(X)) is finite, where K(X) is a rational function field over K. We also do not know of any example where p(K(X)) > p(K) + 2. 
+In this talk, I discuss joint work with Karim Johannes Becher, David Grimm, Gonzalo Manzano-Flores, and Marco Zaninelli, in which we prove for an arbitrary 
+field K that, if p(K(X)) = 2 (the lowest possible value), then p(L) is at most 5 for any finite field extension L of K(X), thereby providing a step in the 
+direction of this open question.*
 
 [Video recording](https://www.bilibili.com/video/BV1Wh4y1n7gc)
 
