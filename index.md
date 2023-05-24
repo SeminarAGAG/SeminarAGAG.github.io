@@ -42,7 +42,7 @@ or
 
 **Title**:  *Surfaces defined by pairs of polynomials*
 
-**Abstract**:  *Surfaces in P4 defined by a pair of polynomials over a finitely generated field of characteristic zero are relevant to the study of rational 
+**Abstract**:  *Surfaces in P3 defined by a pair of polynomials over a finitely generated field of characteristic zero are relevant to the study of rational 
 points because their Brauer group is known to be finite up to constants. Via a topological deformation to the diagonal case we determine these Brauer 
 groups provided our surface is, in an appropriate sense, sufficiently general. This generalises previous results obtained by Colliot-Thélène--Kanevsky--
 Sansuc, Bright, Uematsu and Santens. (Joint work with A. N. Skorobogatov.)*
