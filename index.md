@@ -47,6 +47,8 @@ points because their Brauer group is known to be finite up to constants. Via a t
 groups provided our surface is, in an appropriate sense, sufficiently general. This generalises previous results obtained by Colliot-Thélène--Kanevsky--
 Sansuc, Bright, Uematsu and Santens. (Joint work with A. N. Skorobogatov.)*
 
+Ref: [D. Gvirtz-Chen, A. Skorobogatov, Surfaces defined by pairs of polynomials](https://arxiv.org/abs/2305.08632)
+
 ---------------------------------------------------------------
 
 **Date**: 24.04.2023   **Time**:  15:30--16:30 (Beijing Time)
