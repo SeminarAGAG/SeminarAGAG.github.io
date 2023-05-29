@@ -22,7 +22,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Spring Session 
 
-**The next talk** on  <font color=blue>Monday, May 29th, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue>??, 2023 (Beijing Time).</font>
 
 
 ---------------------------------------------------------------
@@ -46,6 +46,8 @@ or
 points because their Brauer group is known to be finite up to constants. Via a topological deformation to the diagonal case we determine these Brauer 
 groups provided our surface is, in an appropriate sense, sufficiently general. This generalises previous results obtained by Colliot-Thélène--Kanevsky--
 Sansuc, Bright, Uematsu and Santens. (Joint work with A. N. Skorobogatov.)*
+
+[Video recording](https://www.bilibili.com/video/BV11u4y1f7W1)
 
 Ref: [D. Gvirtz-Chen, A. Skorobogatov, Surfaces defined by pairs of polynomials](https://arxiv.org/abs/2305.08632)
 
