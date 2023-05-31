@@ -27,6 +27,29 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ---------------------------------------------------------------
 
+**Date**: 05.07.2023   **Time**:  15:00--16:00 (Beijing Time)
+
+or
+
+**Date**: 05.07.2023   **Time**:  10:00--11:00 (Jerusalem time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Boris Kunyavskii (Bar-Ilan University)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+
+Ref: 
+
+
+---------------------------------------------------------------
+
 **Date**: 29.05.2023   **Time**:  16:30--17:30 (Beijing Time)
 
 or
