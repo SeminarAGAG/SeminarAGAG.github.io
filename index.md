@@ -24,6 +24,27 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 **The next talk** on  <font color=blue>??, 2023 (Beijing Time).</font>
 
+---------------------------------------------------------------
+
+**Date**: 12.07.2023   **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 12.07.2023   **Time**:  10:00--11:00 (Central European Summer time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Eva Bayer-Fluckiger (École Polytechnique Fédérale de Lausanne)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+
+Ref: 
 
 ---------------------------------------------------------------
 
