@@ -68,6 +68,25 @@ or
 
 Ref: 
 
+---------------------------------------------------------------
+
+**Date**: 21.06.2023   **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 21.06.2023   **Time**:  10:00--11:00 (Paris time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: David Harari (Université Paris-Saclay)
+
+**Title**:  Finiteness of certain Tate--Shafarevich sets
+
+**Abstract**:  Let G be a smooth  algebraic group defined over a field K. The Tate--Shafarevich set of G is related to the failure of the local-global principle for principal homogeneous spaces of G. We discuss the finiteness of this set over various fields (number fields, p-adic function fields, function fields of a curve over a number field). 
+
 
 ---------------------------------------------------------------
 
