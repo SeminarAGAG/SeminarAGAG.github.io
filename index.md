@@ -22,7 +22,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Spring Session 
 
-**The next talk** on  <font color=blue>??, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Wednesday, June 21, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -38,6 +38,28 @@ or
 **Passcode**: available upon demand
 
 **Speaker**: Eva Bayer-Fluckiger (École Polytechnique Fédérale de Lausanne)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+
+Ref: 
+
+---------------------------------------------------------------
+
+**Date**: 10.07.2023   **Time**:  15:30--16:30 (Beijing Time)
+
+or
+
+**Date**: 10.07.2023   **Time**:  13:00--14:00 (Indian Standard Time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Amalendu Krishna (Indian Institute of Science)
 
 **Title**:  *TBA*
 
