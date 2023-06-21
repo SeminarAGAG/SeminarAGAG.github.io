@@ -107,8 +107,11 @@ or
 
 **Title**:  Finiteness of certain Tate--Shafarevich sets
 
-**Abstract**:  Let G be a smooth  algebraic group defined over a field K. The Tate--Shafarevich set of G is related to the failure of the local-global principle for principal homogeneous spaces of G. We discuss the finiteness of this set over various fields (number fields, p-adic function fields, function fields of a curve over a number field). 
+**Abstract**:  Let G be a smooth  algebraic group defined over a field K. The Tate--Shafarevich set of G is related to the failure of the local-global 
+principle for principal homogeneous spaces of G. We discuss the finiteness of this set over various fields (number fields, p-adic function fields, function 
+fields of a curve over a number field). 
 
+[Video recording](https://www.bilibili.com/video/BV1Ja4y1A7QE)
 
 ---------------------------------------------------------------
 
