@@ -85,10 +85,9 @@ or
 
 **Title**:  *Violation of local-to-global principles for rationality and linearizability*
 
-**Abstract**:  *TBA*
+**Abstract**:   [Click here](https://seminaragag.github.io/abstract-agag.pdf)
 
-
-Ref: 
+Ref:  [B.Kunyavskii, Tori and surfaces violating a local-to-global principle for rationality](https://arxiv.org/abs/2305.03481)
 
 ---------------------------------------------------------------
 
@@ -112,6 +111,9 @@ principle for principal homogeneous spaces of G. We discuss the finiteness of th
 fields of a curve over a number field). 
 
 [Video recording](https://www.bilibili.com/video/BV1Ja4y1A7QE)
+
+Ref: 
+D.Harari and T. Szamuely, [On Tate-Shafarevich groups of one-dimensional families of commutative group schemes over number fields](https://link.springer.com/article/10.1007/s00209-022-03080-x), Math. Z.302(2022), no.2, 935–948.
 
 ---------------------------------------------------------------
 
