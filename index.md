@@ -83,7 +83,7 @@ or
 
 **Speaker**: Boris Kunyavskii (Bar-Ilan University)
 
-**Title**:  *TBA*
+**Title**:  *Violation of local-to-global principles for rationality and linearizability*
 
 **Abstract**:  *TBA*
 
