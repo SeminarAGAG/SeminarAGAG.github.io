@@ -39,12 +39,14 @@ or
 
 **Speaker**: Eva Bayer-Fluckiger (École Polytechnique Fédérale de Lausanne)
 
-**Title**:  *TBA*
+**Title**:  *Automorphisms of K3 surfaces and cyclotomic polynomials*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Let X be a complex projective K3 surface, and let T be its transcendental lattice; the characteristic polynomials of the isometries of T
+induced by automorphisms of X are powers of  cyclotomic polynomials. Which powers of cyclotomic polynomials occur ? The aim of this note is to answer this
+question, as well as related ones, and give an alternative approach to some results of Kondo, Machida, Oguiso, Vorontsov, Xiao and Zhang.*
 
 
-Ref: 
+Ref:  [Eva Bayer-Fluckiger, Automorphisms of K3 surfaces and cyclotomic polynomials](https://arxiv.org/abs/2305.10995)
 
 ---------------------------------------------------------------
 
