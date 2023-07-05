@@ -89,6 +89,8 @@ or
 
 **Abstract**:   [Click here](https://seminaragag.github.io/abstract-agag.pdf)
 
+[Video recording](https://www.bilibili.com/video/BV1Rj411m7iD)
+
 Ref:  [B.Kunyavskii, Tori and surfaces violating a local-to-global principle for rationality](https://arxiv.org/abs/2305.03481)
 
 ---------------------------------------------------------------
