@@ -63,10 +63,11 @@ or
 
 **Speaker**: Amalendu Krishna (Indian Institute of Science)
 
-**Title**:  *TBA*
+**Title**:  *Ramified class field theory of curves over local fields*
 
-**Abstract**:  *TBA*
-
+**Abstract**:  *In this talk, I will present some results on the class field theory of smooth projective curves over a local field where one allows arbitrary
+ramification along a proper closed subset. We shall derive these results using some new results on the class field theory of 2-local fields and a duality 
+theorem. This is based on a joint work with Subhadip Majumder.*
 
 Ref: 
 
