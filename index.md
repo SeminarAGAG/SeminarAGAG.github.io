@@ -22,7 +22,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Spring Session 
 
-**The next talk** on  <font color=blue> Monday, July 10, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Wednesday, July 12, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -68,6 +68,9 @@ or
 **Abstract**:  *In this talk, I will present some results on the class field theory of smooth projective curves over a local field where one allows arbitrary
 ramification along a proper closed subset. We shall derive these results using some new results on the class field theory of 2-local fields and a duality 
 theorem. This is based on a joint work with Subhadip Majumder.*
+
+
+[Video recording](https://www.bilibili.com/video/BV1Zg4y1w7Sa)
 
 Ref: 
 
