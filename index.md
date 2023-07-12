@@ -22,7 +22,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Spring Session 
 
-**The next talk** on  <font color=blue> Wednesday, July 12, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue> ??, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -45,6 +45,7 @@ or
 induced by automorphisms of X are powers of  cyclotomic polynomials. Which powers of cyclotomic polynomials occur ? The aim of this note is to answer this
 question, as well as related ones, and give an alternative approach to some results of Kondo, Machida, Oguiso, Vorontsov, Xiao and Zhang.*
 
+[Video recording](https://www.bilibili.com/video/BV1Sx4y1d7kK)
 
 Ref:  [Eva Bayer-Fluckiger, Automorphisms of K3 surfaces and cyclotomic polynomials](https://arxiv.org/abs/2305.10995)
 
