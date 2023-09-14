@@ -20,9 +20,41 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### Past sessions:  &emsp; &emsp; [2022 Session](https://seminaragag.github.io/2022session) 
 
+### 2023 Fall Session 
+
+**The next talk** on  <font color=blue> Thursday October 26, 2023 (Beijing Time).</font>
+
+---------------------------------------------------------------
+
+**Date**: 26.10.2023   **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 26.10.2023   **Time**:  10:00--11:00 (Central European Summer time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Vitezslav Kala (Charles University)
+
+**Title**:  *Universal quadratic forms and Northcott property of infinite number fields*
+
+**Abstract**:  *Universal quadratic forms generalize the sum of four squares about which it is well known that it represents all positive rational integers.
+In the talk, I'll start by discussing some results on universal quadratic forms over totally real number fields. Then I'll move on to the - markedly 
+different! - situation over infinite degree extensions K of Q. In particular, I'll show that if K doesn't have many small elements (i.e., "K has the 
+Northcott property"), then it admits no universal form. The talk should be broadly accessible, and is based on a very recent joint work with Nicolas Daans
+and Siu Hang Man.*
+
+
+Ref:  [N. Daans, V. Kala and S. H. Man, Universal quadratic forms and Northcott property of infinite number fields](https://arxiv.org/abs/2308.16721)
+
+---------------------------------------------------------------
+
+
 ### 2023 Spring Session 
 
-**The next talk** on  <font color=blue> ??, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
