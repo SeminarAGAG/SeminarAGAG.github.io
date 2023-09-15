@@ -20,9 +20,33 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### Past sessions:  &emsp; &emsp; [2022 Session](https://seminaragag.github.io/2022session) 
 
+
 ### 2023 Fall Session 
 
 **The next talk** on  <font color=blue> Thursday October 26, 2023 (Beijing Time).</font>
+
+---------------------------------------------------------------
+
+**Date**: 08.11.2023   **Time**:  13:00--14:00 (Beijing Time)
+
+or
+
+**Date**: 08.11.2023   **Time**:  17:00--18:00 (New Zealand Standard Time)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Brendan Creutz (University of Canterbury)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+
+Ref:  
+
 
 ---------------------------------------------------------------
 
