@@ -23,7 +23,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Fall Session 
 
-**The next talk** on  <font color=blue> Thursday October 26, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Wednesday October 11, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -74,7 +74,28 @@ and Siu Hang Man.*
 
 Ref:  [N. Daans, V. Kala and S. H. Man, Universal quadratic forms and Northcott property of infinite number fields](https://arxiv.org/abs/2308.16721)
 
+
 ---------------------------------------------------------------
+
+**Date**: 11.10.2023   **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 11.10.2023   **Time**:  10:00--11:00 (CEST)
+
+
+**Zoom Meeting ID**: 967 248 8008
+
+**Passcode**: available upon demand
+
+**Speaker**: Victor Y. Wang (IST Austria)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+---------------------------------------------------------------
+
 
 
 ### 2023 Spring Session 
