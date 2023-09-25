@@ -27,7 +27,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Fall Session 
 
-**The next talk** on  <font color=blue> Wednesday October 11, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Wednesday October 18, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -81,11 +81,11 @@ Ref:  [N. Daans, V. Kala and S. H. Man, Universal quadratic forms and Northcott 
 
 ---------------------------------------------------------------
 
-**Date**: 11.10.2023   **Time**:  16:00--17:00 (Beijing Time)
+**Date**: 18.10.2023   **Time**:  16:00--17:00 (Beijing Time)
 
 or
 
-**Date**: 11.10.2023   **Time**:  10:00--11:00 (CEST)
+**Date**: 18.10.2023   **Time**:  10:00--11:00 (CEST)
 
 
 **Zoom Meeting ID**: 967 248 8008
