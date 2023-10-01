@@ -15,7 +15,7 @@ CAO Yang (USTC, Hefei);   &emsp; &emsp;  yang###1988@ustc.edu.cn   &emsp; ###=Ya
 
 [HUANG Zhizhong](http://www.math.ac.cn/people/assoprof/202302/t20230228_734301.html) (CAS, Beijing) ;  &emsp; &emsp;  zhizhong.#####@yahoo.com &emsp; ###=Zhizhong's family name
 
-LEE Ting-Yu (Taiwan University, Taiwan); &emsp; &emsp;  tingyu.###@gmail.com   &emsp; ###=Tingyu's family name 
+LEE Ting-Yu (Taiwan University, Taiwan); &emsp; &emsp;  tingyu###@ntu.edu.tw   &emsp; ###=Tingyu's family name 
 
 TIAN Yisheng (SUSTech, Shenzhen);   &emsp; &emsp;  tys####@mail.ustc.edu.cn   &emsp; ####=first 4 letters of "mathematics"
 
