@@ -55,8 +55,7 @@ non-isotrivial curves over global function fields over a decade ago.*
 partial results in the isotrivial case.*
 
 
-Ref:  
-
+Ref:  [B. Creutz and J. Voloch, The Brauer-Manin obstruction for curves over global function fields.](https://arxiv.org/abs/2308.13075)
 
 ---------------------------------------------------------------
 
