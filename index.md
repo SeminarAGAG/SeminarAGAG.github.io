@@ -37,16 +37,22 @@ or
 
 **Date**: 08.11.2023   **Time**:  17:00--18:00 (New Zealand Standard Time)
 
-
 **Zoom Meeting ID**: 967 248 8008
 
 **Passcode**: available upon demand
 
 **Speaker**: Brendan Creutz (University of Canterbury)
 
-**Title**:  *TBA*
+**Title**:  *The Brauer-Manin obstruction for curves over global function fields*
 
-**Abstract**:  *TBA*
+**Abstract**:  *For a curve C over a global field k it is expected that the Brauer-Manin obstruction is the only obstruction to the existence of 
+rational points and to weak approximation.*
+
+*Over number fields this is wide open, but over global function fields there has been significant progress. Poonen and Voloch proved this for 'most'
+non-isotrivial curves over global function fields over a decade ago.*
+
+*I will discuss more recent works on this topic, joint with Voloch, in which we prove the result for all non-isotrivial curves and also give some
+partial results in the isotrivial case.*
 
 
 Ref:  
