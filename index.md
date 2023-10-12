@@ -99,9 +99,10 @@ or
 
 **Speaker**: Victor Y. Wang (IST Austria)
 
-**Title**:  *TBA*
+**Title**:  *Harmonic analysis towards Manin--Peyre*
 
-**Abstract**:  *TBA*
+**Abstract**:  *I will outline the shape of algebro-geometric harmonic analysis in my work on Manin's conjecture for cubic fourfolds and/or ax+b 
+compactifications, as time permits*
 
 ---------------------------------------------------------------
 
