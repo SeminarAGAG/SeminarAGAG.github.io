@@ -104,6 +104,10 @@ or
 **Abstract**:  *I will outline the shape of algebro-geometric harmonic analysis in my work on Manin's conjecture for cubic fourfolds and/or ax+b 
 compactifications, as time permits*
 
+Video recording:  available upon request
+
+[Slides](https://seminaragag.github.io/SAGAG-Wang.pdf)
+
 ---------------------------------------------------------------
 
 
