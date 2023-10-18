@@ -27,7 +27,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Fall Session 
 
-**The next talk** on  <font color=blue> Wednesday October 18, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Thursday October 26, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -37,7 +37,7 @@ or
 
 **Date**: 08.11.2023   **Time**:  17:00--18:00 (New Zealand Standard Time)
 
-**Zoom Meeting ID**: 967 248 8008
+**Zoom Meeting ID**: TBA
 
 **Passcode**: available upon demand
 
@@ -66,7 +66,7 @@ or
 **Date**: 26.10.2023   **Time**:  10:00--11:00 (Central European Summer time)
 
 
-**Zoom Meeting ID**: 967 248 8008
+**Zoom Meeting ID**: TBA
 
 **Passcode**: available upon demand
 
@@ -93,7 +93,7 @@ or
 **Date**: 18.10.2023   **Time**:  10:00--11:00 (CEST)
 
 
-**Zoom Meeting ID**: 967 248 8008
+**Zoom Meeting ID**: 576 120 1443
 
 **Passcode**: available upon demand
 
