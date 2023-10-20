@@ -37,9 +37,7 @@ or
 
 **Date**: 08.11.2023   **Time**:  17:00--18:00 (New Zealand Standard Time)
 
-**Zoom Meeting ID**: TBA
-
-**Passcode**: available upon demand
+**Zoom Meeting ID**: available upon demand
 
 **Speaker**: Brendan Creutz (University of Canterbury)
 
@@ -65,10 +63,7 @@ or
 
 **Date**: 26.10.2023   **Time**:  10:00--11:00 (Central European Summer time)
 
-
-**Zoom Meeting ID**: TBA
-
-**Passcode**: available upon demand
+**Zoom Meeting ID**: available upon demand
 
 **Speaker**: Vitezslav Kala (Charles University)
 
@@ -80,9 +75,7 @@ different! - situation over infinite degree extensions K of Q. In particular, I'
 Northcott property"), then it admits no universal form. The talk should be broadly accessible, and is based on a very recent joint work with Nicolas Daans
 and Siu Hang Man.*
 
-
 Ref:  [N. Daans, V. Kala and S. H. Man, Universal quadratic forms and Northcott property of infinite number fields](https://arxiv.org/abs/2308.16721)
-
 
 ---------------------------------------------------------------
 
@@ -92,10 +85,7 @@ or
 
 **Date**: 18.10.2023   **Time**:  10:00--11:00 (CEST)
 
-
-**Zoom Meeting ID**: 576 120 1443
-
-**Passcode**: available upon demand
+**Zoom Meeting ID**: available upon demand
 
 **Speaker**: Victor Y. Wang (IST Austria)
 
