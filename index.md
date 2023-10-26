@@ -27,7 +27,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Fall Session 
 
-**The next talk** on  <font color=blue> Thursday October 26, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Wednesday November 8, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -74,6 +74,8 @@ In the talk, I'll start by discussing some results on universal quadratic forms 
 different! - situation over infinite degree extensions K of Q. In particular, I'll show that if K doesn't have many small elements (i.e., "K has the 
 Northcott property"), then it admits no universal form. The talk should be broadly accessible, and is based on a very recent joint work with Nicolas Daans
 and Siu Hang Man.*
+
+Video recording:  available upon request
 
 Ref:  [N. Daans, V. Kala and S. H. Man, Universal quadratic forms and Northcott property of infinite number fields](https://arxiv.org/abs/2308.16721)
 
