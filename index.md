@@ -31,6 +31,25 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ---------------------------------------------------------------
 
+**Date**: 24.11.2023   **Time**:  13:30--14:30 (Beijing Time)
+
+or
+
+**Date**: 24.11.2023   **Time**:  14:30--15:30 (Tokyo Time)
+
+**Zoom Meeting ID**: available upon demand
+
+**Speaker**: Takao Yamazaki (Chuo University)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref: 
+
+-----------------------------------------------------------------
+
+
 **Date**: 08.11.2023   **Time**:  13:00--14:00 (Beijing Time)
 
 or
