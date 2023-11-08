@@ -27,7 +27,7 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ### 2023 Fall Session 
 
-**The next talk** on  <font color=blue> Wednesday November 8, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Friday November 24, 2023 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
@@ -71,8 +71,11 @@ non-isotrivial curves over global function fields over a decade ago.*
 *I will discuss more recent works on this topic, joint with Voloch, in which we prove the result for all non-isotrivial curves and also give some
 partial results in the isotrivial case.*
 
+Video recording:  available upon request
 
 Ref:  [B. Creutz and J. Voloch, The Brauer-Manin obstruction for curves over global function fields.](https://arxiv.org/abs/2308.13075)
+
+[Slides](https://seminaragag.github.io/AGAGtalk-Creutz.pdf)
 
 ---------------------------------------------------------------
 
