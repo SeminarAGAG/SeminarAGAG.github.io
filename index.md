@@ -47,6 +47,8 @@ or
 saying that the unramified cohomology is a universal invariant for torsion motives of surfaces. We also exhibit examples of complex varieties violating the 
 integral Hodge conjecture. If time permits, we also discuss a pathology in positive characteristic. (Joint work with Kanetomo Sato.)*
 
+Video recording:  available upon request
+
 Ref:  [K. Sato and T. Yamazaki, Torsion birational motives of surfaces and unramified cohomology](https://arxiv.org/abs/2309.00430)
 
 -----------------------------------------------------------------
