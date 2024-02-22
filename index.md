@@ -30,9 +30,9 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 ### Past sessions:  &emsp; &emsp; [2022 Session](https://seminaragag.github.io/2022session) &emsp; &emsp; [2023 Session](https://seminaragag.github.io/2023session)
 
 
-### 2023 Fall Session 
+### 2024 Spring Session 
 
-**The next talk** on  <font color=blue> Friday November 24, 2023 (Beijing Time).</font>
+**The next talk** on  <font color=blue> ???? 2024 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
