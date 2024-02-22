@@ -1,8 +1,13 @@
 ## Seminar on Arithmetic Geometry and Algebraic Groups
 
-This seminar is focusing on various research topics in arithmetic geometry with special regard to algebraic groups, homogeneous spaces and related structures or problems.
+This seminar is focusing on various research topics in arithmetic geometry with special regard to algebraic groups, homogeneous spaces and related structures 
+or problems.
 
-Normally, two online talks (via Zoom) are expected to be scheduled per month. The date and time of each talk will be flexibly arranged according to the speaker's convenience. 
+Normally, one or two online talks are expected to be scheduled per month. The date and time of each talk will be flexibly arranged according to the speaker's 
+convenience. 
+
+The online talks are usually run via the software Voov (or Tencent meeting in China mainland). 
+Please read the [instrunctions](https://seminaragag.github.io/VoovInstructions.pdf) on downloading and using Voov here.
 
 If you want to receive annoucements of the seminar talks, please email one of the organizers.
 
@@ -22,7 +27,7 @@ TIAN Yisheng (SUSTech, Shenzhen);   &emsp; &emsp;  tys####@mail.ustc.edu.cn   &e
 XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 letters of "fei"
 
 
-### Past sessions:  &emsp; &emsp; [2022 Session](https://seminaragag.github.io/2022session) 
+### Past sessions:  &emsp; &emsp; [2022 Session](https://seminaragag.github.io/2022session) &emsp; &emsp; [2023 Session](https://seminaragag.github.io/2023session)
 
 
 ### 2023 Fall Session 
