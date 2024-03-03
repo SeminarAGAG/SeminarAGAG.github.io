@@ -18,11 +18,11 @@ CAO Yang (Shandong Univ., Jinan);   &emsp; &emsp;  yang###1988@ustc.edu.cn   &em
 
 [HU Yong](https://math.sustech.edu.cn/c/huyong?lang=en) (Southern Univ. Sci. Tech., Shenzhen) ;  &emsp; &emsp;  ###@sustech.edu.cn   &emsp; ###=first 3 letters of "huyong"
 
-[HUANG Zhizhong](http://www.math.ac.cn/people/assoprof/202302/t20230228_734301.html) (Chinese Academy of Sciences, Beijing) ;  &emsp; &emsp;  zhizhong.#####@yahoo.com &emsp; ###=Zhizhong's family name
+[HUANG Zhizhong](http://www.math.ac.cn/people/assoprof/202302/t20230228_734301.html) (Chinese Acad. Sci., Beijing) ;  &emsp; &emsp;  zhizhong.#####@yahoo.com &emsp; ###=Zhizhong's family name
 
 LEE Ting-Yu (Taiwan Univ., Taiwan); &emsp; &emsp;  tingyu###@ntu.edu.tw   &emsp; ###=Tingyu's family name 
 
-TIAN Yisheng (Harbin Institute of Tech., Harbin);   &emsp; &emsp;  tys####@mail.ustc.edu.cn   &emsp; ####=first 4 letters of "mathematics"
+TIAN Yisheng (Harbin Institute Tech., Harbin);   &emsp; &emsp;  tys####@mail.ustc.edu.cn   &emsp; ####=first 4 letters of "mathematics"
 
 XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 letters of "fei"
 
