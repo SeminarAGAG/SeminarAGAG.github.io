@@ -36,3 +36,24 @@ XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 let
 
 ---------------------------------------------------------------
 
+
+**Date**: 22.05.2024   **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 22.05.2024   **Time**:  10:00--11:00 (Paris Time)
+
+**Voov Meeting ID**: TBA
+
+**Speaker**: Quang-Duc DAO (Sorbonne Université and Université Paris Cité)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Video recording:  available upon request
+
+Ref:  
+
+-----------------------------------------------------------------
+
