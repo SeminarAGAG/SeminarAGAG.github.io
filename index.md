@@ -14,7 +14,7 @@ If you want to receive annoucements of the seminar talks, please email one of th
 
 ### Organizers
 
-CAO Yang 曹阳 (Shandong Univ., Jinan);   &emsp; &emsp;  yang###1988@ustc.edu.cn   &emsp; ###=Yang's family name 
+CAO Yang (Shandong Univ., Jinan);   &emsp; &emsp;  yang###1988@ustc.edu.cn   &emsp; ###=Yang's family name 
 
 [HU Yong](https://math.sustech.edu.cn/c/huyong?lang=en) (Southern Univ. Sci. Tech., Shenzhen) ;  &emsp; &emsp;  ###@sustech.edu.cn   &emsp; ###=first 3 letters of "huyong"
 
