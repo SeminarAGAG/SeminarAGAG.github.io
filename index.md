@@ -7,7 +7,7 @@ Normally, one or two online talks are expected to be scheduled per month. The da
 convenience. 
 
 The online talks are usually run via the software **Voov Meeting** (or equivalently, **Tencent meeting** in China mainland). 
-Please read the [instrunctions](https://seminaragag.github.io/VoovInstructions.pdf) on downloading and using Voov here.
+Please read the [instructions](https://seminaragag.github.io/VoovInstructions.pdf) on downloading and using Voov here.
 
 If you want to receive annoucements of the seminar talks, please email one of the organizers.
 
