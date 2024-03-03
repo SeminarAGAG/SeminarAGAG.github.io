@@ -51,8 +51,6 @@ or
 
 **Abstract**:  *TBA*
 
-Video recording:  available upon request
-
 Ref:  
 
 -----------------------------------------------------------------
