@@ -14,17 +14,17 @@ If you want to receive annoucements of the seminar talks, please email one of th
 
 ### Organizers
 
-CAO Yang (SDU, Jinan);   &emsp; &emsp;  yang###1988@ustc.edu.cn   &emsp; ###=Yang's family name 
+CAO Yang (Shandong Univ., Jinan);   &emsp; &emsp;  yang###1988@ustc.edu.cn   &emsp; ###=Yang's family name 
 
-[HU Yong](https://math.sustech.edu.cn/c/huyong?lang=en) (SUSTech, Shenzhen) ;  &emsp; &emsp;  ###@sustech.edu.cn   &emsp; ###=first 3 letters of "huyong"
+[HU Yong](https://math.sustech.edu.cn/c/huyong?lang=en) (Southern Univ. Sci. Tech., Shenzhen) ;  &emsp; &emsp;  ###@sustech.edu.cn   &emsp; ###=first 3 letters of "huyong"
 
-[HUANG Zhizhong](http://www.math.ac.cn/people/assoprof/202302/t20230228_734301.html) (CAS, Beijing) ;  &emsp; &emsp;  zhizhong.#####@yahoo.com &emsp; ###=Zhizhong's family name
+[HUANG Zhizhong](http://www.math.ac.cn/people/assoprof/202302/t20230228_734301.html) (Chinese Academy of Sciences, Beijing) ;  &emsp; &emsp;  zhizhong.#####@yahoo.com &emsp; ###=Zhizhong's family name
 
-LEE Ting-Yu (Taiwan University, Taiwan); &emsp; &emsp;  tingyu###@ntu.edu.tw   &emsp; ###=Tingyu's family name 
+LEE Ting-Yu (Taiwan Univ., Taiwan); &emsp; &emsp;  tingyu###@ntu.edu.tw   &emsp; ###=Tingyu's family name 
 
-TIAN Yisheng (HIT, Harbin);   &emsp; &emsp;  tys####@mail.ustc.edu.cn   &emsp; ####=first 4 letters of "mathematics"
+TIAN Yisheng (Harbin Institute of Tech., Harbin);   &emsp; &emsp;  tys####@mail.ustc.edu.cn   &emsp; ####=first 4 letters of "mathematics"
 
-XU Fei (CNU, Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 letters of "fei"
+XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 letters of "fei"
 
 
 ### Past sessions:  &emsp; &emsp; [2022 Session](https://seminaragag.github.io/2022session) &emsp; &emsp; [2023 Session](https://seminaragag.github.io/2023session)
