@@ -53,7 +53,7 @@ type over F (Grothendieck). Conversely, given an algebraic group G/F, does there
 rich history. Significant progress was recently made by several authors- especially for abelian varieties. After recalling known results, I'll explain that the 
 answer to question above is positive when G is affine. This is unconditional: G may be non-smooth. One may then take X to be a suitable blow-up, at a smooth center, of a projective space. The proof features a new structure result for linear algebraic groups.*
 
-Ref: [M. Florence, Realisation of linear algebraic groups as automorphism groups]([https://arxiv.org/abs/2309.00430](https://webusers.imj-prg.fr/~mathieu.florence/LinIsAut.pdf))
+Ref: [M. Florence, Realisation of linear algebraic groups as automorphism groups](https://webusers.imj-prg.fr/~mathieu.florence/LinIsAut.pdf)
 
 -----------------------------------------------------------------
 
