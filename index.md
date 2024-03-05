@@ -32,10 +32,30 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2024 Spring Session 
 
-**The next talk** on  <font color=blue> ???? 2024 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Friday, March 22, 2024, 16:00--17:00 (Beijing Time).</font>
 
 ---------------------------------------------------------------
 
+**Date**: 22.03.2024   **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 22.03.2024   **Time**:  9:00--10:00 (Paris Time)
+
+**Voov Meeting ID**: TBA
+
+**Speaker**: Mathieu Florence (Sorbonne Université)
+
+**Title**:  *Linear algebraic groups as automorphism group schemes*
+
+**Abstract**:  *Let F be a field, and let X/F be a projective variety. The automorphism group functor Aut(X) is represented by a group scheme, locally of finite
+type over F (Grothendieck). Conversely, given an algebraic group G/F, does there exist a smooth projective variety X/F, such that Aut(X)=G? This question has a
+rich history. Significant progress was recently made by several authors- especially for abelian varieties. After recalling known results, I'll explain that the 
+answer to question above is positive when G is affine. This is unconditional: G may be non-smooth. One may then take X to be a suitable blow-up, at a smooth center, of a projective space. The proof features a new structure result for linear algebraic groups.*
+
+Ref:  
+
+-----------------------------------------------------------------
 
 **Date**: 22.05.2024   **Time**:  16:00--17:00 (Beijing Time)
 
