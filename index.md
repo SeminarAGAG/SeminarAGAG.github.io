@@ -34,6 +34,43 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 **The next talk** on  <font color=blue> Friday, March 22, 2024, 16:00--17:00 (Beijing Time).</font>
 
+-----------------------------------------------------------------
+
+**Date**: 22.05.2024   **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 22.05.2024   **Time**:  10:00--11:00 (Paris Time)
+
+**Voov Meeting ID**: TBA
+
+**Speaker**: Quang-Duc DAO (Sorbonne Université and Université Paris Cité)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref:  
+
+
+-----------------------------------------------------------------
+
+**Date**: 22.03.2024   **Time**:  17:00--18:00 (Beijing Time)
+
+or
+
+**Date**: 22.03.2024   **Time**:  10:00--11:00 (Paris Time)
+
+**Voov Meeting ID**: TBA
+
+**Speaker**: Elyes Boughattas (Sorbonne Université Paris Nord)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref:  
+
 ---------------------------------------------------------------
 
 **Date**: 22.03.2024   **Time**:  16:00--17:00 (Beijing Time)
@@ -55,23 +92,6 @@ answer to question above is positive when G is affine. This is unconditional: G 
 
 Ref: [M. Florence, Realisation of linear algebraic groups as automorphism groups](https://webusers.imj-prg.fr/~mathieu.florence/LinIsAut.pdf)
 
------------------------------------------------------------------
-
-**Date**: 22.05.2024   **Time**:  16:00--17:00 (Beijing Time)
-
-or
-
-**Date**: 22.05.2024   **Time**:  10:00--11:00 (Paris Time)
-
-**Voov Meeting ID**: TBA
-
-**Speaker**: Quang-Duc DAO (Sorbonne Université and Université Paris Cité)
-
-**Title**:  *TBA*
-
-**Abstract**:  *TBA*
-
-Ref:  
 
 -----------------------------------------------------------------
 
