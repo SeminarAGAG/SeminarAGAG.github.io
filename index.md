@@ -65,9 +65,12 @@ or
 
 **Speaker**: Elyes Boughattas (Sorbonne Université Paris Nord)
 
-**Title**:  *TBA*
+**Title**:  The Tame Approximation Problem for nonsolvable groups
 
-**Abstract**:  *TBA*
+**Abstract**:  Studying the arithmetic of homogeneous spaces of SL_n is a promising angle of attack to the Inverse Galois Problem and to local-global variants such as the Tame Approximation Problem. 
+After giving a historical overview of this approach initiated by Emmy Noether, I will focus on recent developments on a remarkable closed subset of adelic points: the Brauer--Manin set. 
+I will particularly show that the Brauer-Manin set is the closure of the set of rational points for homogeneous spaces of the form X=SL_n/G where G ranges through new families of nonsolvable groups, yielding to new positive answers to the Tame Approximation Problem. 
+This is joint work with Danny Neftin.
 
 Ref:  
 
