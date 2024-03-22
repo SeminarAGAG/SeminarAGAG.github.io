@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2024 Spring Session 
 
-**The next talk** on  <font color=blue> Friday, March 22, 2024, 16:00--17:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue> ?? Friday, April ??, 2024, 16:00--17:00 (Beijing Time).</font>
 
 -----------------------------------------------------------------
 
@@ -72,7 +72,7 @@ After giving a historical overview of this approach initiated by Emmy Noether, I
 I will particularly show that the Brauer-Manin set is the closure of the set of rational points for homogeneous spaces of the form X=SL_n/G where G ranges through new families of nonsolvable groups, yielding to new positive answers to the Tame Approximation Problem. 
 This is joint work with Danny Neftin.
 
-Ref:  
+[Video](https://www.bilibili.com/video/BV1B1421Q7eQ)
 
 ---------------------------------------------------------------
 
@@ -95,6 +95,7 @@ answer to question above is positive when G is affine. This is unconditional: G 
 
 Ref: [M. Florence, Realisation of linear algebraic groups as automorphism groups](https://webusers.imj-prg.fr/~mathieu.florence/LinIsAut.pdf)
 
+[Video](https://www.bilibili.com/video/BV1MH4y1W7Cv)
 
 -----------------------------------------------------------------
 
