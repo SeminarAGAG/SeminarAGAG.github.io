@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2024 Spring Session 
 
-**The next talk** on  <font color=blue> ?? Friday, April ??, 2024, 16:00--17:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue>  Friday, April 12, 2024, 20:30--21:30 (Beijing Time).</font>
 
 -----------------------------------------------------------------
 
@@ -52,6 +52,30 @@ or
 
 Ref:  
 
+
+-----------------------------------------------------------------
+
+**Date**: 12.04.2024   **Time**:  20:30--21:30 (Beijing Time)
+
+or
+
+**Date**: 12.04.2024   **Time**:  08:30--09:30 (Santiago Winter Time)
+
+**Voov Meeting ID**: TBA
+
+**Speaker**: Giancarlo LUCCHINI ARTECHE (Universidad de Chile)
+
+**Title**:  *Transfer principles in Galois cohomology and Serre's Conjecture II*
+
+**Abstract**:  *Serre's Conjecture II states that if K is a field of cohomological dimension ≤ 2, G is a semisimple simply connected K-group and X is a G-torsor,
+then X is trivial. This conjecture has been proved for several families of fields, and alternatively for several families of groups, but it is still open in its
+full generality. The usual way of tackling this conjecture consists in "simplifying" the structure of the groups involved, proving that the torsors come from
+subgroups for which the conjecture has already been proved. In joint work with Diego Izquierdo, we rather focus on "simplifying" the structure of the fields
+involved. For this, we formulated certain "transfer principles", which allow us to construct fields with simpler properties, while controlling at the same time
+their cohomological dimension. In this talk I will give an idea of the present situation of the conjecture and how some of these transfer principles allow us to
+reduce it to the case of countable fields of characteristic 0.*
+
+Ref:  [D. Izquierdo and G. Lucchini Arteche](https://arxiv.org/abs/2308.00903)
 
 -----------------------------------------------------------------
 
