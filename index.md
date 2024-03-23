@@ -69,14 +69,10 @@ or
 
 **Abstract**:  Let $K$ be a number field (say, $\mathbf{Q}$) and let G be a connected reductive group over $K$ (say, SO(n)). One needs the first Galois cohomology $H^1(K,G)$ for classification problems in algebraic geometry and linear algebra over $K$.
 
-For a number field $K$ admitting a real embedding (say, $K=\mathbf{Q}$), we show that it is impossible to define a *group structure*, functorial in $G$, on the Galois cohomology pointed set $H^1(K,G)$ for all connected reductive $K$-groups $G$.  However, over an arbitrary number field $K$, we define an *operation of raising to power n* (which we denote by $\Diamond$)
-
-$(x,n) \mapsto x^{\Diamond n}:  H^1(K,G) \times \mathbf{Z}\to H^1(K,G).$
+For a number field $K$ admitting a real embedding (say, $K=\mathbf{Q}$), we show that it is impossible to define a *group structure*, functorial in $G$, on the Galois cohomology pointed set $H^1(K,G)$ for all connected reductive $K$-groups $G$.  However, over an arbitrary number field $K$, we define an *operation of raising to power n* (which we denote by $\Diamond$): $(x,n) \mapsto x^{\Diamond n}:  H^1(K,G) \times \mathbf{Z}\to H^1(K,G).$
 
 
-We show that this new operation has nice functorial properties. When $G$ is a torus (hence an abelian group), the pointed set $H^1(K,G)$  has a natural  abelian group structure, and our new operation coincides with the usual power operation
-
-$(x,n)\mapsto x^n$.
+We show that this new operation has nice functorial properties. When $G$ is a torus (hence an abelian group), the pointed set $H^1(K,G)$  has a natural  abelian group structure, and our new operation coincides with the usual power operation $(x,n)\mapsto x^n$.
 
 For a cohomology class $x$ in $H^1(K,G)$, we  define the *period* (or order)  $per(x)$  to be the least integer $n>0$ such that the $n$-th power $x^{\Diamond n}=1$, and  we define the *index*  $ind(x)$  to be the greatest common divisor of the degrees $[L:K]$ of finite extensions $L/K$ splitting $x$. We show that  $per(x)$ divides $ind(x)$, but they need not be equal. However, $per(x)$ and  $ind(x)$ have the same set of prime factors.
 
