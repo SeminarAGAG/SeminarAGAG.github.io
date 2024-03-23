@@ -70,9 +70,10 @@ or
 **Abstract**:  Let $K$ be a number field (say, $\mathbf{Q}$) and let G be a connected reductive group over $K$ (say, $\mathbf{SO}(n)$). One needs the first Galois cohomology $H^1(K,G)$ for classification problems in algebraic geometry and linear algebra over $K$.
 
 For a number field $K$ admitting a real embedding (say, $K=\mathbf{Q}$), we show that it is impossible to define a *group structure*, functorial in $G$, on the Galois cohomology pointed set $H^1(K,G)$ for all connected reductive $K$-groups $G$.  However, over an arbitrary number field $K$, we define an *operation of raising to power $n$* (which we denote by $\Diamond$)
-\[
+
 $(x,n) \mapsto x^{\Diamond n}:  H^1(K,G) \times Z -> H^1(K,G).$
-\]
+
+
 We show that this new operation has nice functorial properties. When $G$ is a torus (hence an abelian group), the pointed set $H^1(K,G)$  has a natural  abelian group structure, and our new operation coincides with the usual power operation
 \[
 (x,n)\mapsto x^n.
