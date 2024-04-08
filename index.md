@@ -61,7 +61,7 @@ or
 
 **Date**: 26.04.2024   **Time**:  10:00--11:00 (Israel Time)
 
-**Voov Meeting ID**: TBA
+**Voov Meeting ID**: available upon request
 
 **Speaker**: Mikhail Borovoi (Tel Aviv University)
 
@@ -80,7 +80,6 @@ All terms will be defined and examples will be given.
 
 Ref:  
 
-
 -----------------------------------------------------------------
 
 **Date**: 12.04.2024   **Time**:  20:30--21:30 (Beijing Time)
@@ -89,7 +88,7 @@ or
 
 **Date**: 12.04.2024   **Time**:  08:30--09:30 (Santiago Winter Time)
 
-**Voov Meeting ID**: TBA
+**Voov Meeting ID**: available upon request
 
 **Speaker**: Giancarlo LUCCHINI ARTECHE (Universidad de Chile)
 
@@ -113,7 +112,7 @@ or
 
 **Date**: 22.03.2024   **Time**:  10:00--11:00 (Paris Time)
 
-**Voov Meeting ID**: TBA
+**Voov Meeting ID**: available upon request
 
 **Speaker**: Elyes Boughattas (Sorbonne Université Paris Nord)
 
@@ -134,7 +133,7 @@ or
 
 **Date**: 22.03.2024   **Time**:  08:45--09:45 (Paris Time)
 
-**Voov Meeting ID**: TBA
+**Voov Meeting ID**: available upon request
 
 **Speaker**: Mathieu Florence (Sorbonne Université)
 
