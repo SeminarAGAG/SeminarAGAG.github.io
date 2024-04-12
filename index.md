@@ -78,7 +78,7 @@ For a cohomology class $x$ in $H^1(K,G)$, we  define the *period* (or order)  $p
 
 All terms will be defined and examples will be given. Based on a joint work with Zinovy Reichstein.
 
-Ref:  https://arxiv.org/abs/2403.07659
+Ref:  [https://arxiv.org/abs/2403.07659](https://arxiv.org/abs/2403.07659)
 
 -----------------------------------------------------------------
 
