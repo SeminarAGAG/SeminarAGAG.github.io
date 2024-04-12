@@ -76,9 +76,9 @@ We show that this new operation has nice functorial properties. When $G$ is a to
 
 For a cohomology class $x$ in $H^1(K,G)$, we  define the *period* (or order)  $per(x)$  to be the least integer $n>0$ such that the $n$-th power $x^{\Diamond n}=1$, and  we define the *index*  $ind(x)$  to be the greatest common divisor of the degrees $[L:K]$ of finite extensions $L/K$ splitting $x$. We show that  $per(x)$ divides $ind(x)$, but they need not be equal. However, $per(x)$ and  $ind(x)$ have the same set of prime factors.
 
-All terms will be defined and examples will be given.
+All terms will be defined and examples will be given. Based on a joint work with Zinovy Reichstein.
 
-Ref:  
+Ref:  https://arxiv.org/abs/2403.07659
 
 -----------------------------------------------------------------
 
