@@ -102,7 +102,7 @@ involved. For this, we formulated certain "transfer principles", which allow us 
 their cohomological dimension. In this talk I will give an idea of the present situation of the conjecture and how some of these transfer principles allow us to
 reduce it to the case of countable fields of characteristic 0.*
 
-Ref:  [D. Izquierdo and G. Lucchini Arteche](https://arxiv.org/abs/2308.00903)
+Ref:  [D. Izquierdo and G. Lucchini Arteche, Transfer principles for Galois cohomology and Serre's conjecture II](https://arxiv.org/abs/2308.00903)
 
 [video](https://www.bilibili.com/video/BV1cE421M76b)
 
