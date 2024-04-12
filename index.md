@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2024 Spring Session 
 
-**The next talk** on  <font color=blue>  Friday, April 12, 2024, 20:30--21:30 (Beijing Time).</font>
+**The next talk** on  <font color=blue>  Friday, April 26, 2024, 15:00--16:00 (Beijing Time).</font>
 
 -----------------------------------------------------------------
 
@@ -103,6 +103,8 @@ their cohomological dimension. In this talk I will give an idea of the present s
 reduce it to the case of countable fields of characteristic 0.*
 
 Ref:  [D. Izquierdo and G. Lucchini Arteche](https://arxiv.org/abs/2308.00903)
+
+[video](https://www.bilibili.com/video/BV1cE421M76b)
 
 -----------------------------------------------------------------
 
