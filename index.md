@@ -104,7 +104,7 @@ reduce it to the case of countable fields of characteristic 0.*
 
 Ref:  [D. Izquierdo and G. Lucchini Arteche, Transfer principles for Galois cohomology and Serre's conjecture II](https://arxiv.org/abs/2308.00903)
 
-[video](https://www.bilibili.com/video/BV1cE421M76b)
+[Video](https://www.bilibili.com/video/BV1cE421M76b)
 
 -----------------------------------------------------------------
 
