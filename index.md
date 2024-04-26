@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2024 Spring Session 
 
-**The next talk** on  <font color=blue>  Friday, May 22, 2024, 16:00--17:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue>  Wednesday, May 22, 2024, 16:00--17:00 (Beijing Time).</font>
 
 -----------------------------------------------------------------
 
