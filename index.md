@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2024 Spring Session 
 
-**The next talk** on  <font color=blue>  Friday, April 26, 2024, 15:00--16:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue>  Friday, May 22, 2024, 16:00--17:00 (Beijing Time).</font>
 
 -----------------------------------------------------------------
 
@@ -79,6 +79,8 @@ For a cohomology class $x$ in $H^1(K,G)$, we  define the *period* (or order)  $p
 All terms will be defined and examples will be given. Based on a joint work with Zinovy Reichstein.
 
 Ref:  [https://arxiv.org/abs/2403.07659](https://arxiv.org/abs/2403.07659)
+
+[Video](https://www.bilibili.com/video/BV1oZ421E7C2)
 
 -----------------------------------------------------------------
 
