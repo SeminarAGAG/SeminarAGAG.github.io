@@ -42,13 +42,16 @@ or
 
 **Date**: 22.05.2024   **Time**:  10:00--11:00 (Paris Time)
 
-**Voov Meeting ID**: TBA
+**Voov Meeting ID**: available upon request
 
 **Speaker**: Quang-Duc DAO (Sorbonne Université and Université Paris Cité)
 
-**Title**:  *TBA*
+**Title**:  *Local-global principles for integral points on certain Markoff-type surfaces*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Ghosh and Sarnak; Loughran and Mitankin; and Colliot-Thélène, Wei, and Xu have recently studied integral points on Markoff surfaces, which 
+are affine cubic surfaces defined by a Diophantine equation. In this talk, inspired by these works and a recent paper of Fuchs, Litman, Silverman, and Tran, I
+will present some recent results on the Brauer–Manin obstruction to local-global principles for integral points on affine Markoff-type cubic and K3 surfaces 
+along with some counting results in this context.*
 
 Ref:  
 
