@@ -41,7 +41,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 or
 
-**Date**: 09.10.2024 (dd.mm.yyyy)  **Time**:  10:00--11:00 (US Eastern Time)
+**Date**: 09.10.2024 (dd.mm.yyyy)  **Time**:  09:30--10:30 (US Eastern Time)
 
 **Zoom Meeting ID**: available upon request
 
