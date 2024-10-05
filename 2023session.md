@@ -15,7 +15,7 @@ or
 
 **Zoom Meeting ID**: available upon demand
 
-**Speaker**: Takao Yamazaki (Chuo University)
+**Speaker**: Takao Yamazaki 山崎隆雄 (Chuo University)
 
 **Title**:  *Torsion birational motives of surfaces and unramified cohomology*
 
