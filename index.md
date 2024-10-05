@@ -30,6 +30,37 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 ### Past sessions:  &emsp; &emsp; [2022 Session](https://seminaragag.github.io/2022session) &emsp; &emsp; [2023 Session](https://seminaragag.github.io/2023session)
 
 
+
+### 2024 Fall Session 
+
+**The next talk** on  <font color=blue>  Wednesday, October 9, 2024, 21:30--22:30 (Beijing Time).</font>
+
+-----------------------------------------------------------------
+
+**Date**: 09.10.2024 (dd.mm.yyyy)  **Time**:  21:30--22:30 (Beijing Time)
+
+or
+
+**Date**: 09.10.2024 (dd.mm.yyyy)  **Time**:  10:00--11:00 (US Eastern Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Katharine Woo (Princeton University)
+
+**Title**:  *Manin's conjecture for Châtelet surfaces*
+
+**Abstract**:  *We resolve Manin's conjecture for all Châtelet surfaces over Q; we find asymptotics for the number of rational points of increasing height.
+The key analytic ingredient is estimating sums of Fourier coefficients of modular forms along polynomial values.*
+
+Ref:  
+
+[K. Woo, On Manin's conjecture for Châtelet surfaces](https://arxiv.org/abs/2409.17381)
+
+
+-----------------------------------------------------------------
+
+
+
 ### 2024 Spring Session 
 
 **The next talk** on  <font color=blue>  Wednesday, May 22, 2024, 16:00--17:00 (Beijing Time).</font>
