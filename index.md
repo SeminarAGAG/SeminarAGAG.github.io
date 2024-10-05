@@ -63,8 +63,6 @@ Ref:
 
 ### 2024 Spring Session 
 
-**The next talk** on  <font color=blue>  Wednesday, May 22, 2024, 16:00--17:00 (Beijing Time).</font>
-
 -----------------------------------------------------------------
 
 **Date**: 22.05.2024   **Time**:  16:00--17:00 (Beijing Time)
