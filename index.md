@@ -33,7 +33,33 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2024 Fall Session 
 
-**The next talk** on  <font color=blue>  Wednesday, October 9, 2024, 21:30--22:30 (Beijing Time).</font>
+**The next talk** on  <font color=blue>  Monday, October 21, 2024, 15:30--16:30 (Beijing Time).</font>
+
+
+
+-----------------------------------------------------------------
+
+**Date**: 21.10.2024 (dd.mm.yyyy)  **Time**:  15:30--16:30 (Beijing Time)
+
+or
+
+**Date**: 21.10.2024 (dd.mm.yyyy)  **Time**:  09:30--10:30 (Central European Summer Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Christian Bernert (Leibniz Universität Hannover)
+
+**Title**:  *Points of bounded height on quintic del Pezzo surfaces over number fields*
+
+**Abstract**:  *I will report on joint work with Ulrich Derenthal, where we establish Manin's conjecture for split smooth quintic del Pezzo surfaces over 
+arbitrary number fields with respect to fairly general anticanonical height functions, using universal torsors. This is the first instance where Manin's 
+conjecture is established over number fields different from Q for a non-toric smooth del Pezzo surface.*
+
+Ref:  
+
+[C. Bernert and U. Derenthal, Points of bounded height on quintic del Pezzo surfaces over number fields](https://arxiv.org/abs/2405.20293)
+
+
 
 
 -----------------------------------------------------------------
