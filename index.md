@@ -83,7 +83,7 @@ Ref:
 
 [K. Woo, On Manin's conjecture for Châtelet surfaces](https://arxiv.org/abs/2409.17381)
 
-
+[Video](https://www.bilibili.com/video/BV1rymwYqEe3)
 
 -----------------------------------------------------------------
 
