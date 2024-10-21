@@ -59,7 +59,7 @@ Ref:
 
 [C. Bernert and U. Derenthal, Points of bounded height on quintic del Pezzo surfaces over number fields](https://arxiv.org/abs/2405.20293)
 
-
+[Video](https://www.bilibili.com/video/BV1yByLYME7B)
 
 
 -----------------------------------------------------------------
