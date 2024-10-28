@@ -36,6 +36,31 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 **The next talk** on  <font color=blue>  Monday, October 21, 2024, 15:30--16:30 (Beijing Time).</font>
 
 
+-----------------------------------------------------------------
+
+**Date**: 04.11.2024 (dd.mm.yyyy)  **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 04.11.2024 (dd.mm.yyyy)  **Time**:  09:00--10:00 (Central European Winter Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Morena Porzio (Columbia University)
+
+**Title**:  *On the stable birationality of Hilbert schemes of points on surfaces*
+
+**Abstract**:  *In this talk, we will address the question for which pairs of integers (n,n') the variety Hilb^n_X  is stably birational to Hilb^n'_X, when X 
+is a surface with H^1(X,O_X)=0. In order to do so we will relate the existence of degree n' effective cycles on X with the existence of degree n ones using 
+curves on X. 
+We will then focus on geometrically rational surfaces, proving that there are only finitely many stable birational classes among the Hilb^n_X's. If time 
+permits, we will see how to deduce from this the rationality of a generalization of the Hasse-Weil zeta function Z(X, t) in K_0(Var/k)/([A^1_k])[[t]] when 
+char(k) = 0.*
+
+Ref:  
+
+[M. Porzio, On the Stable Birationality of Hilbert schemes of points on surfaces](https://arxiv.org/abs/2408.07593)
+
 
 -----------------------------------------------------------------
 
