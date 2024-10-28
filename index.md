@@ -33,7 +33,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2024 Fall Session 
 
-**The next talk** on  <font color=blue>  Monday, October 21, 2024, 15:30--16:30 (Beijing Time).</font>
+**The next talk** on  <font color=blue>  Monday, November 4, 2024, 16:00--17:00 (Beijing Time).</font>
 
 
 -----------------------------------------------------------------
