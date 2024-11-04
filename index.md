@@ -61,6 +61,7 @@ Ref:
 
 [M. Porzio, On the Stable Birationality of Hilbert schemes of points on surfaces](https://arxiv.org/abs/2408.07593)
 
+[Video](https://www.bilibili.com/video/BV14dDHYkEem)
 
 -----------------------------------------------------------------
 
