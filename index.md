@@ -50,13 +50,13 @@ or
 
 **Title**:  *Brauer-Manin obstructions on homogeneous spaces of affine algebraic groups over global function fields*
 
-**Abstract**:  *Given a family of varieties X over a global field k, one is interested in the sufficiency of the Brauer-Manin obstruction to explain the possible failure of the Hasse principle and weak/strong approximation of adelic points on X. Let G be an affine algebraic group G over k, and our family of interest - the principal homogeneous spaces X of G.
+**Abstract**:  *Given a family of varieties X over a global field k, one is interested in the sufficiency of the Brauer-Manin obstruction to explain the possible failure of the Hasse principle and weak/strong approximation of adelic points on X. Let G be an affine algebraic group G over k, and our family of interest - the principal homogeneous spaces X of G.*
 
-In 1981, Sansuc proved this sufficiency for connected G over a number field k by reduction to the case of a torus and an application of Poitou-Tate duality. Since then, arithmetic duality theorems have proven useful in the study of similar problems. 
+*In 1981, Sansuc proved this sufficiency for connected G over a number field k by reduction to the case of a torus and an application of Poitou-Tate duality. Since then, arithmetic duality theorems have proven useful in the study of similar problems.*
 
-In this presentation, we briefly recall the significant generalization by Rosengarten of the Poitou-Tate theory to all commutative affine algebraic groups G over a global field k of any characteristic. Then we explain how this theory allows us to extend the stated Brauer-Manin results to (the principal homogeneous spaces of) all such G, not necessarily smooth or connected, highlighting the difficulties which appear in the case when k is a global function field.
+*In this presentation, we briefly recall the significant generalization by Rosengarten of the Poitou-Tate theory to all commutative affine algebraic groups G over a global field k of any characteristic. Then we explain how this theory allows us to extend the stated Brauer-Manin results to (the principal homogeneous spaces of) all such G, not necessarily smooth or connected, highlighting the difficulties which appear in the case when k is a global function field.*
 
-This talk is based on the speaker's recent preprint, available at: https://arxiv.org/abs/2410.12127.*
+*This talk is based on the speaker's recent preprint, available at: https://arxiv.org/abs/2410.12127.*
 
 
 -----------------------------------------------------------------
