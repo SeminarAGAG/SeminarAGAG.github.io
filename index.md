@@ -46,7 +46,7 @@ or
 
 **Zoom Meeting ID**: available upon request
 
-**Speaker**: Azur Đonlagić (Paris-Sacley University)
+**Speaker**: Azur Đonlagić (Paris-Saclay University)
 
 **Title**:  *Brauer-Manin obstructions on homogeneous spaces of affine algebraic groups over global function fields*
 
