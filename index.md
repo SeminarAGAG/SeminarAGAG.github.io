@@ -59,6 +59,8 @@ This is joint work with Tim Browning.*
 
 Ref:  
 
+[F. Wilsch, Integral points on cubic surfaces: heuristics and numerics](https://arxiv.org/abs/2407.16315)
+
 
 -----------------------------------------------------------------
 
@@ -112,7 +114,6 @@ we reduce the problem to counting points over finite fields on the jet schemes o
 suitable version of the circle method.*
 
 Ref:  
-
 
 
 -----------------------------------------------------------------
