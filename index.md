@@ -33,7 +33,31 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2024 Fall Session 
 
-**The next talk** on  <font color=blue>  Monday, November 4, 2024, 16:00--17:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue>  Friday, December 6, 2024, 16:30--17:30 (Beijing Time).</font>
+
+
+-----------------------------------------------------------------
+
+**Date**: 18.12.2024 (dd.mm.yyyy)  **Time**:  16:30--17:30 (Beijing Time)
+
+or
+
+**Date**: 18.12.2024 (dd.mm.yyyy)  **Time**:  09:30--10:30 (Central European Winter Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Florian Wilsch
+
+**Title**:  *Integral points on affine cubic surfaces: heuristics and numerics*
+
+**Abstract**:  *We develop a heuristic for the number of integral solutions to cubic equations in three variables based on the circle method, predicting a 
+logarithmic order of magnitude. This generalizes Heath-Browns conjecture on the number of representations k = x³ + y³ + z³ of an integer k (that is not a 
+perfect cube) as a sum of three cubes.
+The heuristic can be tested against asymptotic formulae by Zagier on the Markoff surface and by Baragar and Umeda on variants of it. Moreover, we obtained 
+numerical data on some families of surfaces to test our heuristic against.
+This is joint work with Tim Browning.*
+
+Ref:  
 
 
 -----------------------------------------------------------------
@@ -50,13 +74,45 @@ or
 
 **Title**:  *Brauer-Manin obstructions on homogeneous spaces of affine algebraic groups over global function fields*
 
-**Abstract**:  *Given a family of varieties X over a global field k, one is interested in the sufficiency of the Brauer-Manin obstruction to explain the possible failure of the Hasse principle and weak/strong approximation of adelic points on X. Let G be an affine algebraic group G over k, and our family of interest - the principal homogeneous spaces X of G.*
+**Abstract**:  *Given a family of varieties X over a global field k, one is interested in the sufficiency of the Brauer-Manin obstruction to explain the 
+possible failure of the Hasse principle and weak/strong approximation of adelic points on X. Let G be an affine algebraic group G over k, and our family of 
+interest - the principal homogeneous spaces X of G.*
 
-*In 1981, Sansuc proved this sufficiency for connected G over a number field k by reduction to the case of a torus and an application of Poitou-Tate duality. Since then, arithmetic duality theorems have proven useful in the study of similar problems.*
+*In 1981, Sansuc proved this sufficiency for connected G over a number field k by reduction to the case of a torus and an application of Poitou-Tate duality. 
+Since then, arithmetic duality theorems have proven useful in the study of similar problems.*
 
-*In this presentation, we briefly recall the significant generalization by Rosengarten of the Poitou-Tate theory to all commutative affine algebraic groups G over a global field k of any characteristic. Then we explain how this theory allows us to extend the stated Brauer-Manin results to (the principal homogeneous spaces of) all such G, not necessarily smooth or connected, highlighting the difficulties which appear in the case when k is a global function field.*
+*In this presentation, we briefly recall the significant generalization by Rosengarten of the Poitou-Tate theory to all commutative affine algebraic groups G 
+over a global field k of any characteristic. Then we explain how this theory allows us to extend the stated Brauer-Manin results to (the principal 
+homogeneous spaces of) all such G, not necessarily smooth or connected, highlighting the difficulties which appear in the case when k is a global function 
+field.*
 
 *This talk is based on the speaker's recent preprint, available at: https://arxiv.org/abs/2410.12127.*
+
+Ref:
+
+[A. Donlagic, Brauer-Manin obstructions for homogeneous spaces of commutative affine algebraic groups over global fields](https://arxiv.org/abs/2410.12127)
+
+-----------------------------------------------------------------
+
+**Date**: 06.12.2024 (dd.mm.yyyy)  **Time**:  16:30--17:30 (Beijing Time)
+
+or
+
+**Date**: 06.12.2024 (dd.mm.yyyy)  **Time**:  09:30--10:30 (Central European Winter Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Jakob Glas
+
+**Title**:  *Terminality of moduli spaces of curves on hypersurfaces via the circle method*
+
+**Abstract**:  *I will report on joint work with Matthew Hase-Liu that shows that the moduli space of genus g curves of degree e on a smooth hypersurface of
+low degree only has terminal singularities, provided e is sufficiently large with respect to g. Using a spreading argument together with a result of Mustata, 
+we reduce the problem to counting points over finite fields on the jet schemes of these moduli spaces. We solve this counting problem by developing a 
+suitable version of the circle method.*
+
+Ref:  
+
 
 
 -----------------------------------------------------------------
