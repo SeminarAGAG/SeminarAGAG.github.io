@@ -46,7 +46,7 @@ or
 
 **Zoom Meeting ID**: available upon request
 
-**Speaker**: Florian Wilsch
+**Speaker**: Florian Wilsch (Georg-August-Universität Göttingen)
 
 **Title**:  *Integral points on affine cubic surfaces: heuristics and numerics*
 
@@ -104,7 +104,7 @@ or
 
 **Zoom Meeting ID**: available upon request
 
-**Speaker**: Jakob Glas
+**Speaker**: Jakob Glas (Leibniz Universität Hannover)
 
 **Title**:  *Terminality of moduli spaces of curves on hypersurfaces via the circle method*
 
