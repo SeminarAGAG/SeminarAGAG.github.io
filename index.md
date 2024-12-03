@@ -35,6 +35,30 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 **The next talk** on  <font color=blue>  Friday, December 6, 2024, 16:30--17:30 (Beijing Time).</font>
 
+-----------------------------------------------------------------
+
+**Date**: 19.12.2024 (dd.mm.yyyy)  **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 19.12.2024 (dd.mm.yyyy)  **Time**:  09:00--10:00 (Central European Winter Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Flora Poon (NCTS)
+
+**Title**:  *Kuga-Satake construction on families of K3 surfaces of Picard rank 14*
+
+**Abstract**:  *Classically, it is known that the period domain D of a moduli space of K3 surfaces of Picard rank r > 13 is diffeomorphic to the period 
+domain of a different moduli space of some polarized varieties. The lowest Picard rank known for such a coincidence happens is r = 14: there is a 
+diffeomorphism from D to the period domain of a moduli of polarized abelian 8-folds with totally definite quaternion multiplication, which descends to a map 
+between the corresponding moduli spaces. We will describe the latter map explicitly by considering the Kuga-Satake construction on lattice polarized K3 
+surfaces. Using lattice theoretical arguments, we will also show that the map of moduli exhibits exceptional behaviour when specialised to families of K3 
+surfaces of Picard rank 18 admitting a Shioda-Inose or a Kummer structure.*
+
+Ref:  
+
+
 
 -----------------------------------------------------------------
 
