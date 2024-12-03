@@ -45,7 +45,7 @@ or
 
 **Zoom Meeting ID**: available upon request
 
-**Speaker**: Flora Poon (NCTS)
+**Speaker**: Flora Poon (National Center for Theoretical Sciences)
 
 **Title**:  *Kuga-Satake construction on families of K3 surfaces of Picard rank 14*
 
