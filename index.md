@@ -33,7 +33,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2024 Fall Session 
 
-**The next talk** on  <font color=blue>  Friday, December 6, 2024, 16:30--17:30 (Beijing Time).</font>
+**The next talk** on  <font color=blue>  Friday, December 13, 2024, 16:00--17:00 (Beijing Time).</font>
 
 -----------------------------------------------------------------
 
@@ -138,6 +138,8 @@ we reduce the problem to counting points over finite fields on the jet schemes o
 suitable version of the circle method.*
 
 Ref:  
+
+[Video](https://www.bilibili.com/video/BV1Qki6YAEpX)
 
 
 -----------------------------------------------------------------
