@@ -33,7 +33,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2024 Fall Session 
 
-**The next talk** on  <font color=blue>  Friday, December 13, 2024, 16:00--17:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue>  Wednesday, December 18, 2024, 16:00--17:00 (Beijing Time).</font>
 
 -----------------------------------------------------------------
 
@@ -117,6 +117,8 @@ field.*
 Ref:
 
 [A. Donlagic, Brauer-Manin obstructions for homogeneous spaces of commutative affine algebraic groups over global fields](https://arxiv.org/abs/2410.12127)
+
+[Video](https://www.bilibili.com/video/BV1CBBMYYEJn)
 
 -----------------------------------------------------------------
 
