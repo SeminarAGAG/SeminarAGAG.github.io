@@ -58,7 +58,7 @@ surfaces of Picard rank 18 admitting a Shioda-Inose or a Kummer structure.*
 
 Ref:  
 
-
+[Video](https://www.bilibili.com/video/BV1SzkuYxE1Z)
 
 -----------------------------------------------------------------
 
