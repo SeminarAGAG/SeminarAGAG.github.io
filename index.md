@@ -31,9 +31,40 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 
 
+### 2025 Spring Session 
+
+**The next talk** on  <font color=blue>  Monday, April 28, 2025, 16:30--17:30 (Beijing Time).</font>
+
+
+-----------------------------------------------------------------
+
+**Date**: 28.04.2025 (dd.mm.yyyy)  **Time**:  16:30--17:30 (Beijing Time)
+
+or
+
+**Date**: 28.04.2024 (dd.mm.yyyy)  **Time**:  10:30--11:30 (Central European Winter Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Tim Santens (National Center for Theoretical Sciences)
+
+**Title**:  *Leading constant in Malle's conjecture*
+
+**Abstract**:  *Let G be a finite permutation group, Malle has put forward a conjecture on the number of G-extensions of a number field of bounded discriminant. 
+In this talk I will discuss recent efforts to interpret Malle's conjecture as a form of Manin's conjecture on rational points of bounded height for the stack BG. 
+Based on this analogy me and Loughran have given a conjectural interpretation of the leading constant in Malle's conjecture. *
+
+Ref:  
+
+[Video](https://www.bilibili.com/video/BV1SzkuYxE1Z)
+
+-----------------------------------------------------------------
+
+
+
+
 ### 2024 Fall Session 
 
-**The next talk** on  <font color=blue>  Thursday, December 19, 2024, 16:00--17:00 (Beijing Time).</font>
 
 -----------------------------------------------------------------
 
