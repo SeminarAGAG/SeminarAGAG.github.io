@@ -27,7 +27,7 @@ LEE Ting-Yu (Taiwan Univ., Taiwan); &emsp; &emsp;  tingyu###@ntu.edu.tw   &emsp;
 XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &emsp; ##=last 2 letters of "fei"
 
 
-### Past sessions:  &emsp; &emsp; [2022 Session](https://seminaragag.github.io/2022session) &emsp; &emsp; [2023 Session](https://seminaragag.github.io/2023session)
+### Past sessions:  &emsp; &emsp; [2022 Session](https://seminaragag.github.io/2022session) &emsp; &emsp; [2023 Session](https://seminaragag.github.io/2023session) &emsp; &emsp; [2024 Session](https://seminaragag.github.io/2024session)
 
 
 
