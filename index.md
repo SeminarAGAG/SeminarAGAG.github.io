@@ -46,7 +46,7 @@ or
 
 **Zoom Meeting ID**: available upon request
 
-**Speaker**: Tim Santens (National Center for Theoretical Sciences)
+**Speaker**: Tim Santens (University of Cambridge)
 
 **Title**:  *Leading constant in Malle's conjecture*
 
@@ -56,7 +56,7 @@ Based on this analogy me and Loughran have given a conjectural interpretation of
 
 Ref:  
 
-https://arxiv.org/abs/2412.04196
+[D. Loughran and T. Santens, Malle's conjecture and Brauer groups of stacks](https://arxiv.org/abs/2412.04196)
 
 -----------------------------------------------------------------
 
