@@ -42,7 +42,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 or
 
-**Date**: 28.04.2024 (dd.mm.yyyy)  **Time**:  10:30--11:30 (Central European Winter Time)
+**Date**: 28.04.2024 (dd.mm.yyyy)  **Time**:  10:30--11:30 (Central European Summer Time)
 
 **Zoom Meeting ID**: available upon request
 
