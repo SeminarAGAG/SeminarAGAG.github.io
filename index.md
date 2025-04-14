@@ -56,7 +56,7 @@ Based on this analogy me and Loughran have given a conjectural interpretation of
 
 Ref:  
 
-[Video](https://www.bilibili.com/video/BV1SzkuYxE1Z)
+https://arxiv.org/abs/2412.04196
 
 -----------------------------------------------------------------
 
