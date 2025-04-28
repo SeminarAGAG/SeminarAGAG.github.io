@@ -33,7 +33,45 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2025 Spring Session 
 
-**The next talk** on  <font color=blue>  Monday, April 28, 2025, 16:30--17:30 (Beijing Time).</font>
+**The next talk** on  <font color=blue>  Friday, June 13, 2025, 16:30--17:30 (Beijing Time).</font>
+
+
+-----------------------------------------------------------------
+
+**Date**: 20.06.2025 (dd.mm.yyyy)  **Time**:  
+
+or
+
+**Date**: 20.06.2024 (dd.mm.yyyy)  **Time**:  
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Lois Faisant
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA *
+
+Ref:  
+
+
+-----------------------------------------------------------------
+
+**Date**: 13.06.2025 (dd.mm.yyyy)  **Time**:  
+
+or
+
+**Date**: 13.06.2024 (dd.mm.yyyy)  **Time**:  
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Darda 
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA *
+
+Ref:  
 
 
 -----------------------------------------------------------------
@@ -55,10 +93,11 @@ In this talk I will discuss recent efforts to interpret Malle's conjecture as a 
 Based on this analogy me and Loughran have given a conjectural interpretation of the leading constant in Malle's conjecture. *
 
 Ref:  
-
 [D. Loughran and T. Santens, Malle's conjecture and Brauer groups of stacks](https://arxiv.org/abs/2412.04196)
 
------------------------------------------------------------------
+[Video](https://www.bilibili.com/video/BV1woLUzYEnF)
 
+
+-----------------------------------------------------------------
 
 
