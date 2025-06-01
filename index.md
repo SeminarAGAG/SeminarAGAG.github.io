@@ -33,7 +33,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2025 Spring Session 
 
-**The next talk** on  <font color=blue>  Friday, June 13, 2025, 16:30--17:30 (Beijing Time).</font>
+**The next talk** on  <font color=blue>  Monday, June 9, 2025, 16:00--17:00 (Beijing Time).</font>
 
 
 -----------------------------------------------------------------
@@ -72,6 +72,32 @@ or
 **Abstract**:  *TBA *
 
 Ref:  
+
+
+-----------------------------------------------------------------
+
+**Date**: 09.06.2025 (dd.mm.yyyy)  **Time**:  16:00--17:00 (Beijing Time)
+
+or
+
+**Date**: 09.06.2024 (dd.mm.yyyy)  **Time**:  10:00--11:00 (Central European Summer Time) ; 11:00--12:00 (Israel Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Boris Kunyavskii (Bar-Ilan University)
+
+**Title**:  *Birational properties of word varieties*
+
+**Abstract**:  *We prove that the subvariety of SL(2)xSL(2) given by the matrix equation w(X,Y)=g, where w is a word in two letters, is closely related to an 
+explicit smooth conic bundle over the associated `trace surface' in the 3-dimensional affine space. When w is the commutator word, we show that this variety can 
+be irrational if the ground field k is not algebraically closed, answering a question of Rapinchuk, Benyash-Krivetz, and Chernousov. When k is a number field, it 
+satisfies weak approximation with the Brauer--Manin obstruction.*
+
+*The talk is based on our joint work with Tatiana Bandman and Alexei Skorobogatov.*
+
+Ref:  
+
+[T. Bandman, B. Kunyavskii and A. Skorobogatov, Birational properties of word varieties](https://arxiv.org/abs/2504.15461)
 
 
 -----------------------------------------------------------------
