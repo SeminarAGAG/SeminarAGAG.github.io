@@ -50,7 +50,7 @@ or
 
 **Title**:  *TBA*
 
-**Abstract**:  *TBA *
+**Abstract**:  *TBA*
 
 Ref:  
 
@@ -69,7 +69,7 @@ or
 
 **Title**:  *TBA*
 
-**Abstract**:  *TBA *
+**Abstract**:  *TBA*
 
 Ref:  
 
