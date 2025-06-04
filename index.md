@@ -57,19 +57,27 @@ Ref:
 
 -----------------------------------------------------------------
 
-**Date**: 13.06.2025 (dd.mm.yyyy)  **Time**:  
+**Date**: 13.06.2025 (dd.mm.yyyy)  **Time**:  16:00–17:00 (Beijing Time)
 
 or
 
-**Date**: 13.06.2024 (dd.mm.yyyy)  **Time**:  
+**Date**: 13.06.2024 (dd.mm.yyyy)  **Time**:  10:00–11:00 (Central European Summer Time)
 
 **Zoom Meeting ID**: available upon request
 
-**Speaker**: Darda 
+**Speaker**: Ratko Darda (Sabanci University)
 
-**Title**:  *TBA*
+**Title**:  *Around Manin's conjecture for stacks*
 
-**Abstract**:  *TBA*
+**Abstract**:  *A fundamental question in Diophantine geometry is to understand the distribution of solutions to polynomial equations over the rational numbers. A 
+prominent example of such a question is Manin's conjecture, which predicts the number of rational points of bounded height on certain algebraic varieties. 
+Specifically, the number of rational points of height at most B is expected to be asymptotic to CB^a log(B)^b, for certain constants C,a,b. Very similar formulas 
+arise in other counting problems, such as in counting of elliptic curves of bounded naive height or in Malle's conjecture, which concerns the number of Galois 
+extensions of Q with bounded discriminant.*
+
+*In this talk, we discuss a generalization of Manin's conjecture to stacks, which unifies and extends the Manin's and Malle's conjecture. We will also address the 
+wild case—when the orders of automorphism groups of points of stacks are divisible by the characteristics of the global field over which the stack is defined. 
+This talk is based on joint works with Takehiko Yasuda.*
 
 Ref:  
 
