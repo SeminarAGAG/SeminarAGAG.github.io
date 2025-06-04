@@ -81,6 +81,12 @@ This talk is based on joint works with Takehiko Yasuda.*
 
 Ref:  
 
+[R. Darda and T. Yasuda, The Batyrev-Manin conjecture for DM stacks II](https://arxiv.org/abs/2502.07157)
+
+[R. Darda and T. Yasuda, The Manin conjecture for toric stacks](https://arxiv.org/abs/2311.02012)
+
+[R. Darda and T. Yasuda, The Batyrev-Manin conjecture for DM stacks](https://arxiv.org/abs/2207.03645)
+
 
 -----------------------------------------------------------------
 
@@ -127,6 +133,7 @@ In this talk I will discuss recent efforts to interpret Malle's conjecture as a 
 Based on this analogy me and Loughran have given a conjectural interpretation of the leading constant in Malle's conjecture. *
 
 Ref:  
+
 [D. Loughran and T. Santens, Malle's conjecture and Brauer groups of stacks](https://arxiv.org/abs/2412.04196)
 
 [Video](https://www.bilibili.com/video/BV1woLUzYEnF)
