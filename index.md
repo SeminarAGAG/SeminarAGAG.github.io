@@ -33,7 +33,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2025 Spring Session 
 
-**The next talk** on  <font color=blue>  Monday, June 9, 2025, 16:00--17:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue>  Friday, June 13, 2025, 16:00--17:00 (Beijing Time).</font>
 
 
 -----------------------------------------------------------------
@@ -112,6 +112,8 @@ satisfies weak approximation with the Brauer--Manin obstruction.*
 Ref:  
 
 [T. Bandman, B. Kunyavskii and A. Skorobogatov, Birational properties of word varieties](https://arxiv.org/abs/2504.15461)
+
+[Video](https://www.bilibili.com/video/BV1U8TezLEki)
 
 
 -----------------------------------------------------------------
