@@ -33,7 +33,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2025 Spring Session 
 
-**The next talk** on  <font color=blue>  Friday, June 13, 2025, 16:00--17:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue> (to be confirmed) Friday, June 20, 2025, 16:00--17:00 (Beijing Time).</font>
 
 
 -----------------------------------------------------------------
@@ -87,6 +87,7 @@ Ref:
 
 [R. Darda and T. Yasuda, The Batyrev-Manin conjecture for DM stacks](https://arxiv.org/abs/2207.03645)
 
+[Video](https://www.bilibili.com/video/BV1aNMuzJE1R)
 
 -----------------------------------------------------------------
 
