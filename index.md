@@ -87,8 +87,6 @@ Ref:
 
 [R. Darda and T. Yasuda, The Batyrev-Manin conjecture for DM stacks](https://arxiv.org/abs/2207.03645)
 
-[Video](https://www.bilibili.com/video/BV1aNMuzJE1R)
-
 -----------------------------------------------------------------
 
 **Date**: 09.06.2025 (dd.mm.yyyy)  **Time**:  16:00--17:00 (Beijing Time)
