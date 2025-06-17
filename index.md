@@ -33,27 +33,32 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2025 Spring Session 
 
-**The next talk** on  <font color=blue> (to be confirmed) Friday, June 20, 2025, 16:00--17:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Friday, June 20, 2025, 16:00--17:00 (Beijing Time).</font>
 
 
 -----------------------------------------------------------------
 
-**Date**: 20.06.2025 (dd.mm.yyyy)  **Time**:  
+**Date**: 20.06.2025 (dd.mm.yyyy)  **Time**:  16:00–17:00 (Beijing Time)
 
 or
 
-**Date**: 20.06.2024 (dd.mm.yyyy)  **Time**:  
+**Date**: 20.06.2024 (dd.mm.yyyy)  **Time**:  10:00–11:00 (Central European Summer Time)
 
 **Zoom Meeting ID**: available upon request
 
-**Speaker**: Lois Faisant
+**Speaker**: Loïs Faisant (IST Austria)
 
-**Title**:  *TBA*
+**Title**:  *Counting rational curves with prescribed tangency conditions: a motivic analogue via universal torsors*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Given a smooth projective and geometrically irreducible curve C and a Mori Dream Space X, we present a general parametrisation of morphisms from C 
+to X which allows us to express the Grothendieck motive of Hom (C,X) as a motivic function defined on some power of the scheme of effective divisors of C, 
+generalising previous works of Bourqui. Such a parametrisation should be understood as lifting our morphisms to the universal torsor of X. *
+
+*As an application, we prove a motivic analogue of a variant of Manin’s conjecture for Campana curves on smooth projective split toric varieties.*
 
 Ref:  
 
+[L. Faisant, Motivic counting of rational curves with tangency conditions via universal torsors](https://arxiv.org/abs/2502.11704)
 
 -----------------------------------------------------------------
 
