@@ -52,7 +52,7 @@ or
 
 **Abstract**:  *Given a smooth projective and geometrically irreducible curve C and a Mori Dream Space X, we present a general parametrisation of morphisms from C 
 to X which allows us to express the Grothendieck motive of Hom (C,X) as a motivic function defined on some power of the scheme of effective divisors of C, 
-generalising previous works of Bourqui. Such a parametrisation should be understood as lifting our morphisms to the universal torsor of X. *
+generalising previous works of Bourqui. Such a parametrisation should be understood as lifting our morphisms to the universal torsor of X.*
 
 *As an application, we prove a motivic analogue of a variant of Manin’s conjecture for Campana curves on smooth projective split toric varieties.*
 
