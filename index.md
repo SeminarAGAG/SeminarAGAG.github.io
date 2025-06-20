@@ -60,6 +60,8 @@ Ref:
 
 [L. Faisant, Motivic counting of rational curves with tangency conditions via universal torsors](https://arxiv.org/abs/2502.11704)
 
+[Video](https://www.bilibili.com/video/BV1BAKAzzEyj)
+
 -----------------------------------------------------------------
 
 **Date**: 13.06.2025 (dd.mm.yyyy)  **Time**:  16:00–17:00 (Beijing Time)
