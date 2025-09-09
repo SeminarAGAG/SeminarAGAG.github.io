@@ -31,9 +31,37 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 
 
-### 2025 Spring Session 
 
-**The next talk** on  <font color=blue> Friday, June 20, 2025, 16:00--17:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Wednesday, September 24, 2025, 16:00--17:00 (Beijing Time).</font>
+
+
+### 2025 Fall Session 
+
+-----------------------------------------------------------------
+
+**Date**: 24.09.2025 (dd.mm.yyyy)  **Time**:  16:00–17:00 (Beijing Time)
+
+or
+
+**Date**: 24.09.2024 (dd.mm.yyyy)  **Time**:  10:00–11:00 (Central European Summer Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Olivier Benoist (CNRS)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref:  
+
+
+[O. Benoist, The Pythagoras number of fields of transcendence degree 1 over Q](https://arxiv.org/abs/2506.21380)
+
+-----------------------------------------------------------------
+
+
+### 2025 Spring Session 
 
 
 -----------------------------------------------------------------
