@@ -39,11 +39,32 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 -----------------------------------------------------------------
 
+**Date**: 17.10.2025 (dd.mm.yyyy)  **Time**:  15:00–16:00 (Beijing Time)
+
+or
+
+**Date**: 17.10.2025 (dd.mm.yyyy)  **Time**:  09:00–10:00 (Central European Summer Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Federico Scavia (CNRS, Université Sorbonne Paris Nord)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref:  
+
+[A. Bouthier, K. Cesnavicius and F. Scavia, Generically trivial torsors under constant groups](https://arxiv.org/abs/2505.00505)
+
+-----------------------------------------------------------------
+
+
 **Date**: 24.09.2025 (dd.mm.yyyy)  **Time**:  16:00–17:00 (Beijing Time)
 
 or
 
-**Date**: 24.09.2024 (dd.mm.yyyy)  **Time**:  10:00–11:00 (Central European Summer Time)
+**Date**: 24.09.2025 (dd.mm.yyyy)  **Time**:  10:00–11:00 (Central European Summer Time)
 
 **Zoom Meeting ID**: available upon request
 
@@ -59,6 +80,8 @@ Ref:
 [O. Benoist, The Pythagoras number of fields of transcendence degree 1 over Q](https://arxiv.org/abs/2506.21380)
 
 -----------------------------------------------------------------
+
+
 
 
 ### 2025 Spring Session 
