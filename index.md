@@ -49,9 +49,13 @@ or
 
 **Speaker**: Federico Scavia (CNRS, Université Sorbonne Paris Nord)
 
-**Title**:  *TBA*
+**Title**:  *Generically trivial torsors under constant groups*
 
-**Abstract**:  *TBA*
+**Abstract**:  *I will discuss the proof, joint with Alexis Bouthier and Kestutis Cesnavicius, of the Grothendieck–Serre question over an arbitrary base field k: 
+for a smooth k-group scheme G and a smooth k-variety X, we show that every generically trivial G-torsor over X trivializes Zariski semilocally on X. This was 
+known when G is reductive or when k is perfect, and to settle it in general we uncover a wealth of new arithmetic phenomena over imperfect k: purity theorems for 
+torsors under pseudo-finite, pseudo-complete and pseudo-proper groups, an extension theorem for torsors under quasi-reductive groups, the classification of 
+torsors over the projective line over k, and the Cartan, Birkhoff and Iwasawa decompositions for G(k((t))), and the unramifiedness of the Whitehead group of G.*
 
 Ref:  
 
