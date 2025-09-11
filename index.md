@@ -93,7 +93,7 @@ Ref:
 
 or
 
-**Date**: 20.06.2024 (dd.mm.yyyy)  **Time**:  10:00–11:00 (Central European Summer Time)
+**Date**: 20.06.2025 (dd.mm.yyyy)  **Time**:  10:00–11:00 (Central European Summer Time)
 
 **Zoom Meeting ID**: available upon request
 
@@ -119,7 +119,7 @@ Ref:
 
 or
 
-**Date**: 13.06.2024 (dd.mm.yyyy)  **Time**:  10:00–11:00 (Central European Summer Time)
+**Date**: 13.06.2025 (dd.mm.yyyy)  **Time**:  10:00–11:00 (Central European Summer Time)
 
 **Zoom Meeting ID**: available upon request
 
@@ -151,7 +151,7 @@ Ref:
 
 or
 
-**Date**: 09.06.2024 (dd.mm.yyyy)  **Time**:  10:00--11:00 (Central European Summer Time) ; 11:00--12:00 (Israel Time)
+**Date**: 09.06.2025 (dd.mm.yyyy)  **Time**:  10:00--11:00 (Central European Summer Time) ; 11:00--12:00 (Israel Time)
 
 **Zoom Meeting ID**: available upon request
 
@@ -179,7 +179,7 @@ Ref:
 
 or
 
-**Date**: 28.04.2024 (dd.mm.yyyy)  **Time**:  10:30--11:30 (Central European Summer Time)
+**Date**: 28.04.2025 (dd.mm.yyyy)  **Time**:  10:30--11:30 (Central European Summer Time)
 
 **Zoom Meeting ID**: available upon request
 
