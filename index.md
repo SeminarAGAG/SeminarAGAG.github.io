@@ -37,6 +37,26 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2025 Fall Session 
 
+
+-----------------------------------------------------------------
+
+**Date**: 12.12.2025 (dd.mm.yyyy)  **Time**:  11:00–12:00 (Beijing Time)
+
+or
+
+**Date**: 11.12.2025 (dd.mm.yyyy)  **Time**:  22:00–23:00 (New York Winter Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Alena Pirutka (Courant Institute of Mathematical Sciences, New York University)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref:  
+
+
 -----------------------------------------------------------------
 
 **Date**: 17.10.2025 (dd.mm.yyyy)  **Time**:  15:00–16:00 (Beijing Time)
