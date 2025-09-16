@@ -214,7 +214,7 @@ or
 
 **Abstract**:  *Let G be a finite permutation group, Malle has put forward a conjecture on the number of G-extensions of a number field of bounded discriminant. 
 In this talk I will discuss recent efforts to interpret Malle's conjecture as a form of Manin's conjecture on rational points of bounded height for the stack BG. 
-Based on this analogy me and Loughran have given a conjectural interpretation of the leading constant in Malle's conjecture. *
+Based on this analogy me and Loughran have given a conjectural interpretation of the leading constant in Malle's conjecture.*
 
 Ref:  
 
