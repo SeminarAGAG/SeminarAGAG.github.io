@@ -94,12 +94,13 @@ or
 
 **Speaker**: Olivier Benoist (CNRS)
 
-**Title**:  *TBA*
+**Title**:  *The Pythagoras number of function fields of curves over number fields*
 
-**Abstract**:  *TBA*
+**Abstract**:  *The Pythagoras number is a classical invariant of a field K measuring the complexity of sums of squares problems in K. It is defined as the 
+smallest integer p(K) such that any sum of squares in K is a sum of p(K) squares. We will prove that function fields of curves over number fields have Pythagoras 
+number at most 5, answering a question of Pop and Pfister.*
 
 Ref:  
-
 
 [O. Benoist, The Pythagoras number of fields of transcendence degree 1 over Q](https://arxiv.org/abs/2506.21380)
 
