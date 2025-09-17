@@ -40,6 +40,25 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 -----------------------------------------------------------------
 
+**Date**: 12.12.2025 (dd.mm.yyyy)  **Time**:  16:00–17:00 (Beijing Time)
+
+or
+
+**Date**: 12.12.2025 (dd.mm.yyyy)  **Time**:  09:00–10:00  (Central European Winter Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Jean-Louis Colliot-Thélène (CNRS, Université Paris-Saclay)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref:  
+
+
+-----------------------------------------------------------------
+
 **Date**: 12.12.2025 (dd.mm.yyyy)  **Time**:  11:00–12:00 (Beijing Time)
 
 or
@@ -55,6 +74,28 @@ or
 **Abstract**:  *TBA*
 
 Ref:  
+
+
+-----------------------------------------------------------------
+
+**Date**: 14.11.2025 (dd.mm.yyyy)  **Time**:  16:30–17:30 (Beijing Time)
+
+or
+
+**Date**: 14.11.2025 (dd.mm.yyyy)  **Time**:  09:30–10:30 (Central European Winter Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Shuntaro Yamagishi (IST Austria)
+
+**Title**:  *Rational surfaces on low degree hypersurfaces*
+
+**Abstract**:  *In this talk, I will talk about my recent work with Tim Browning on using function field analytic number theory to establish the irreducibility 
+and dimension of the moduli space that parameterises rational surfaces of fixed degree contained in an arbitrary smooth hypersurface of sufficiently small degree.*
+
+Ref:  
+
+[T. Browning and S. Yamagishi, Rational surfaces on low degree hypersurfaces](https://arxiv.org/abs/2508.18938)
 
 
 -----------------------------------------------------------------
