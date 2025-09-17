@@ -81,6 +81,26 @@ Ref:
 
 [A. Bouthier, K. Cesnavicius and F. Scavia, Generically trivial torsors under constant groups](https://arxiv.org/abs/2505.00505)
 
+
+-----------------------------------------------------------------
+
+**Date**: 10.10.2025 (dd.mm.yyyy)  **Time**:  15:00–16:00 (Beijing Time)
+
+or
+
+**Date**: 10.10.2025 (dd.mm.yyyy)  **Time**:  16:00–17:00 (Tokyo Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Sho Tanimoto (Nagoya University)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref:  
+
+
 -----------------------------------------------------------------
 
 
