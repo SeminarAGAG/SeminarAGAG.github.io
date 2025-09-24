@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 
 
-**The next talk** on  <font color=blue> Wednesday, September 24, 2025, 16:00--17:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Friday, October 10, 2025, 15:00--16:00 (Beijing Time).</font>
 
 
 ### 2025 Fall Session 
@@ -164,6 +164,8 @@ number at most 5, answering a question of Pop and Pfister.*
 Ref:  
 
 [O. Benoist, The Pythagoras number of fields of transcendence degree 1 over Q](https://arxiv.org/abs/2506.21380)
+
+[Video](https://www.bilibili.com/video/BV1egJQzKEmH/)
 
 -----------------------------------------------------------------
 
