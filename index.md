@@ -149,6 +149,10 @@ Shusterman. The second part is joint work with Yuri Tschinkel.*
 Ref:  
 
 
+[R. Das, B. Lehmann, S. Tanimoto and P. Tosteson, Homological stability and Manin's conjecture for rational curves on quartic del Pezzo surfaces](https://arxiv.org/abs/2506.17071)
+
+[S. Tanimoto and Y. Tschinkel, Homological stability and weak approximation](https://arxiv.org/abs/2509.11021)
+
 -----------------------------------------------------------------
 
 
