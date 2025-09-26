@@ -135,9 +135,16 @@ or
 
 **Speaker**: Sho Tanimoto (Nagoya University)
 
-**Title**:  *TBA*
+**Title**:  *Homological stability and arithmetic applications*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Many questions in arithmetic geometry over global function fields boil down to questions regarding the space of curves on a Fano variety. Batyrev 
+and Ellenberg—Venkatesh envisioned that the asymptotic behavior of rational points can be studied by establishing homological stability for the space of curves.*
+
+*In the main part of my talk, I will explain the homological sieve method proposed by Das—Tosteson and Das—Lehmann—T—Tosteson to establish Manin’s conjecture and 
+Cohen—Jones—Segal conjecture for rational curves on quartic del Pezzo surfaces in a parallel way. Then if time permits, we discuss homological stability in the 
+context of weak approximation for the space of sections for certain Fano fibrations. This will be established by proving a version of Cohen—Jones—Segal conjecture 
+for the space of sections constrained by jet conditions. The main part is joint work with R. Das, B. Lehmann, and P. Tosteson with a help by W. Sawin and M. 
+Shusterman. The second part is joint work with Yuri Tschinkel.*
 
 Ref:  
 
@@ -168,7 +175,6 @@ Ref:
 [Video](https://www.bilibili.com/video/BV1egJQzKEmH/)
 
 -----------------------------------------------------------------
-
 
 
 
