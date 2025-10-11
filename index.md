@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 
 
-**The next talk** on  <font color=blue> Friday, October 10, 2025, 15:00--16:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Friday, October 17, 2025, 15:00--16:00 (Beijing Time).</font>
 
 
 ### 2025 Fall Session 
@@ -74,6 +74,27 @@ or
 **Abstract**:  *TBA*
 
 Ref:  
+
+
+-----------------------------------------------------------------
+
+**Date**: 24.11.2025 (dd.mm.yyyy)  **Time**:  10:00–11:00 (Beijing Time)
+
+or
+
+**Date**: 23.11.2025 (dd.mm.yyyy)  **Time**:  20:00–21:00 (North American Central Standard Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Vladimir Shein (Northwestern University)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref:  
+
+[V. Shein, Singularities of symmetric powers and irrationality of motivic zeta functions](https://arxiv.org/abs/2508.15065)
 
 
 -----------------------------------------------------------------
@@ -152,6 +173,9 @@ Ref:
 [R. Das, B. Lehmann, S. Tanimoto and P. Tosteson, Homological stability and Manin's conjecture for rational curves on quartic del Pezzo surfaces](https://arxiv.org/abs/2506.17071)
 
 [S. Tanimoto and Y. Tschinkel, Homological stability and weak approximation](https://arxiv.org/abs/2509.11021)
+
+
+[Video](https://www.bilibili.com/video/BV1qX4WzEEkn/)
 
 -----------------------------------------------------------------
 
