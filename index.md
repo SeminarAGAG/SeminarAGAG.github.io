@@ -56,6 +56,8 @@ or
 
 Ref:  
 
+[J.-L. Colliot-Thelene, A. Pirutka, F. Scavia, Variétés réelles connexes non stablement rationnelles](https://arxiv.org/abs/2505.21477)
+
 
 -----------------------------------------------------------------
 
@@ -73,7 +75,12 @@ or
 
 **Abstract**:  *TBA*
 
+
 Ref:  
+
+[J.-L. Colliot-Thelene, A. Pirutka, Certaines fibrations en surfaces quadriques réelles](https://arxiv.org/abs/2406.00463)
+
+[O. Benoist, A. Pirutka, On the rationality of some real threefolds](https://arxiv.org/abs/2412.13624)
 
 
 -----------------------------------------------------------------
