@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 
 
-**The next talk** on  <font color=blue> Friday, October 17, 2025, 15:00--16:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Monday, November 14, 2025, 16:30--17:30 (Beijing Time).</font>
 
 
 ### 2025 Fall Session 
@@ -150,6 +150,7 @@ Ref:
 
 [A. Bouthier, K. Cesnavicius and F. Scavia, Generically trivial torsors under constant groups](https://arxiv.org/abs/2505.00505)
 
+[Video](https://www.bilibili.com/video/BV1LcWJzoE6V/)
 
 -----------------------------------------------------------------
 
