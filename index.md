@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 
 
-**The next talk** on  <font color=blue> Friday, November 14, 2025, 16:30--17:30 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Monday, November 24, 2025, 10:00--11:00 (Beijing Time).</font>
 
 
 ### 2025 Fall Session 
@@ -85,6 +85,29 @@ Ref:
 
 -----------------------------------------------------------------
 
+**Date**: 10.12.2025 (dd.mm.yyyy)  **Time**:  14:00–15:00 (Beijing Time)
+
+or
+
+**Date**: 10.12.2025 (dd.mm.yyyy)  **Time**:  19:00–20:00 (New Zeland Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Brendan Creutz (University of Canterbury)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+
+Ref:  
+
+[B. Creutz, Adelic Mordell-Lang and the Brauer-Manin obstruction](https://arxiv.org/abs/2510.25931)
+
+
+
+-----------------------------------------------------------------
+
 **Date**: 24.11.2025 (dd.mm.yyyy)  **Time**:  10:00–11:00 (Beijing Time)
 
 or
@@ -95,9 +118,14 @@ or
 
 **Speaker**: Vladimir Shein (Northwestern University)
 
-**Title**:  *TBA*
+**Title**:  *Singularities of symmetric powers and motivic zeta functions*
 
-**Abstract**:  *TBA*
+**Abstract**:  *For an algebraic variety X, one can define several "motivic" types of singularities using the Grothendieck ring of varieties. One of them is the 
+notion of L-rational singularities, introduced by Nicaise and Shinder in their work on the specialization of stable birationality. The question of when quotient 
+varieties X/G have L-rational singularities turns out to be particularly interesting. I will discuss some results in this direction, in particular a proof that 
+symmetric powers of smooth varieties have L-rational singularities. I will then explain how one can use this result to prove the irrationality of Kapranov motivic 
+zeta functions for a large class of varieties, generalizing a method of Larsen and Lunts to higher dimensions. If time permits, I will also discuss some other 
+applications and open questions.*
 
 Ref:  
 
