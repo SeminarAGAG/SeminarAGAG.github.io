@@ -131,6 +131,8 @@ Ref:
 
 [V. Shein, Singularities of symmetric powers and irrationality of motivic zeta functions](https://arxiv.org/abs/2508.15065)
 
+[Video](https://www.bilibili.com/video/BV1CGUVBaEpV)
+
 
 -----------------------------------------------------------------
 
