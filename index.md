@@ -95,9 +95,11 @@ or
 
 **Speaker**: Brendan Creutz (University of Canterbury)
 
-**Title**:  *TBA*
+**Title**:  *Adelic Mordell-Lang and the Brauer-Manin obstruction*
 
-**Abstract**:  *TBA*
+**Abstract**:  *I will discuss a recent result concerning rational points on subvarieties of nonisotrivial abelian varieties over global function fields. 
+Specifically, if $X \subset A$ is such a subvariety, then every adelic point of $X$ which is a limit of rational points on $A$ is also a limit of rational points 
+on $X$. From this we deduce, conditionally on finiteness of the Tate-Shafarevich group of $A$, that the set of rational points on $X$ is dense in its Brauer set.*
 
 
 Ref:  
