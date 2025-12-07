@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 
 
-**The next talk** on  <font color=blue> Monday, November 24, 2025, 10:00--11:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Wednesday, December 10, 2025, 14:00--15:00 (Beijing Time).</font>
 
 
 ### 2025 Fall Session 
@@ -50,9 +50,13 @@ or
 
 **Speaker**: Jean-Louis Colliot-Thélène (CNRS, Université Paris-Saclay)
 
-**Title**:  *TBA*
+**Title**:  *Semialgebraically connected  intersections of two quadrics in 5-dimensional projective space over a real closed field*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Let R be the field of real Puiseux series. It is a real closed field. We construct the first examples of smooth intersections of two quadrics in
+5-dimensional (and also 9-dimensional) real projective space over R which are not stably rational but for which the space of R-points of the variety is semi-
+algebraically connected. The question of constructing such examples over the field of real numbers remains open.*
+
+*This is a joint work with Alena Pirutka and Federico Scavia.*
 
 Ref:  
 
