@@ -75,9 +75,13 @@ or
 
 **Speaker**: Alena Pirutka (Courant Institute of Mathematical Sciences, New York University)
 
-**Title**:  *TBA*
+**Title**:  *Rationality questions for threefolds over the reals*
 
-**Abstract**:  *TBA*
+**Abstract**:  *We will discuss rationality properties for real threefolds with connected real locus. Our examples are certain real threefolds fibered in quadric 
+surfaces over the real projective line, or threefolds fibered in conics over the real projective plane, for which the intermediate jacobian technique gives no 
+obstruction to rationality. We will use Brauer groups and higher analogues, properties of zero-cycles, and rigidity methods over non-closed fields.* 
+
+*These are joint works with Jean-Louis Colliot-Thélène,  Olivier Benoist, and Federico Scavia.*
 
 
 Ref:  
