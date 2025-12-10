@@ -114,7 +114,7 @@ Ref:
 
 [B. Creutz, Adelic Mordell-Lang and the Brauer-Manin obstruction](https://arxiv.org/abs/2510.25931)
 
-
+[Video](https://www.bilibili.com/video/BV1rvm4BcEAR)
 
 -----------------------------------------------------------------
 
