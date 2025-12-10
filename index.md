@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 
 
-**The next talk** on  <font color=blue> Wednesday, December 10, 2025, 14:00--15:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Friday, December 12, 2025, 11:00--12:00 (Beijing Time).</font>
 
 
 ### 2025 Fall Session 
