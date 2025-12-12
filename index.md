@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 
 
-**The next talk** on  <font color=blue> Friday, December 12, 2025, 11:00--12:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Friday, December 12, 2025, 16:00--17:00 (Beijing Time).</font>
 
 
 ### 2025 Fall Session 
@@ -90,6 +90,7 @@ Ref:
 
 [O. Benoist, A. Pirutka, On the rationality of some real threefolds](https://arxiv.org/abs/2412.13624)
 
+[Video](https://www.bilibili.com/video/BV1AQmjBzE7c)
 
 -----------------------------------------------------------------
 
