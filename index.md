@@ -62,6 +62,8 @@ Ref:
 
 [J.-L. Colliot-Thelene, A. Pirutka, F. Scavia, Variétés réelles connexes non stablement rationnelles](https://arxiv.org/abs/2505.21477)
 
+[Slides](https://seminaragag.github.io/CTdec12.pdf)
+
 [Video](https://www.bilibili.com/video/BV1aRm7BxE1E)
 
 -----------------------------------------------------------------
