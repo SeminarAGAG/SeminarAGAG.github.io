@@ -44,7 +44,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 or
 
-**Date**: 12.10.2025 (dd.mm.yyyy)  **Time**:  10:30–11:30 (Central European Summer Time)
+**Date**: 12.10.2026 (dd.mm.yyyy)  **Time**:  10:30–11:30 (Central European Summer Time)
 
 **Zoom Meeting ID**: available upon request
 
