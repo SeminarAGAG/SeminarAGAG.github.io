@@ -32,8 +32,27 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 
 
-**The next talk** on  <font color=blue> Friday, December 12, 2025, 16:00--17:00 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Monday, October 12, 2026, 16:30--17:30 (Beijing Time).</font>
 
 
 ### 2025 Fall Session 
+
+
+-----------------------------------------------------------------
+
+**Date**: 12.10.2026 (dd.mm.yyyy)  **Time**:  16:30–17:30 (Beijing Time)
+
+or
+
+**Date**: 12.10.2025 (dd.mm.yyyy)  **Time**:  10:30–11:30 (Central European Summer Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Federico Scavia (CNRS, Université Sorbonne Paris Nord)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref:  
 
