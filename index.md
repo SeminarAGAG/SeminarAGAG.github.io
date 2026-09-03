@@ -35,8 +35,8 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 **The next talk** on  <font color=blue> Monday, October 12, 2026, 16:30--17:30 (Beijing Time).</font>
 
 
-### 2025 Fall Session 
 
+### 2026 Fall Session 
 
 -----------------------------------------------------------------
 
@@ -56,3 +56,13 @@ or
 
 Ref:  
 
+
+
+
+----------------------------------------------------------------------------------------------------
+
+
+### 2026 Spring Session 
+
+
+No talk was scheduled in this spring semester.
