@@ -38,6 +38,27 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 ### 2026 Fall Session 
 
+
+-----------------------------------------------------------------
+
+
+**Date**: 16.10.2026 (dd.mm.yyyy)  **Time**:  16:00–17:00 (Beijing Time)
+
+or
+
+**Date**: 16.10.2026 (dd.mm.yyyy)  **Time**:  10:00–11:00 (Central European Summer Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Olivier Benoist (CNRS)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref：
+
+
 -----------------------------------------------------------------
 
 **Date**: 12.10.2026 (dd.mm.yyyy)  **Time**:  16:30–17:30 (Beijing Time)
