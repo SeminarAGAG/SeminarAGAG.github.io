@@ -52,9 +52,11 @@ or
 
 **Speaker**: Olivier Benoist (CNRS)
 
-**Title**:  *TBA*
+**Title**:  *Étale cohomology of Stein algebras*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Artin's comparison theorem states that the étale cohomology and the singular cohomology of a complex algebraic variety are isomorphic. I will 
+discuss a complex-analytic counterpart of this result, in Stein geometry (Stein spaces being the complex-analytic analogues of affine algebraic varieties). I will 
+also explain applications to the topology of Stein spaces.*
 
 Ref：
 
