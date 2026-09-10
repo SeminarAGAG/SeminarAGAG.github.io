@@ -42,6 +42,27 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 -----------------------------------------------------------------
 
 
+**Date**: 16.11.2026 (dd.mm.yyyy)  **Time**:  16:30–17:30 (Beijing Time)
+
+or
+
+**Date**: 16.11.2026 (dd.mm.yyyy)  **Time**:  09:30–10:30 (Central European Winter Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Otto Overkamp (Heinrich-Heine-Universität Düsseldorf)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref：
+
+
+
+-----------------------------------------------------------------
+
+
 **Date**: 16.10.2026 (dd.mm.yyyy)  **Time**:  16:00–17:00 (Beijing Time)
 
 or
