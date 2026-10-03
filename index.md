@@ -135,13 +135,15 @@ or
 
 **Speaker**: Federico Scavia (CNRS, Université Sorbonne Paris Nord)
 
-**Title**:  *TBA*
+**Title**:  *Splitting Brauer classes by genus one curves*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Let F be a field. A basic way to study a Brauer class over F is through its splitting fields, that is, field extensions of F over which the class 
+becomes trivial. I will discuss a question of Clark and Saltman: is every Brauer class over F split by a smooth projective genus one curve over F? Equivalently, 
+does every Severi-Brauer variety X/F admit a morphism C -> X, with C a smooth projective curve of genus one? I will present joint work with Zinovy Reichstein 
+showing that the answer is no in general. I will then discuss joint work with Ben Antieau and Asher Auel showing that, in contrast, the answer is yes over number 
+fields.*
 
 Ref:  
-
-
 
 
 ----------------------------------------------------------------------------------------------------
