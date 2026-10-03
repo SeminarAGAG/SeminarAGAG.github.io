@@ -39,6 +39,27 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 ### 2026 Fall Session 
 
 
+
+-----------------------------------------------------------------
+
+
+**Date**: 04.12.2026 (dd.mm.yyyy)  **Time**:  16:00–17:00 (Beijing Time)
+
+or
+
+**Date**: 04.12.2026 (dd.mm.yyyy)  **Time**:  09:00–10:00 (Central European Winter Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Ulrich Derenthal (Leibniz Universität Hannover)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref：
+
+
 -----------------------------------------------------------------
 
 
@@ -59,6 +80,26 @@ or
 Ref：
 
 
+-----------------------------------------------------------------
+
+
+**Date**: 02.11.2026 (dd.mm.yyyy)  **Time**:  16:30–17:30 (Beijing Time)
+
+or
+
+**Date**: 02.11.2026 (dd.mm.yyyy)  **Time**:  09:30–10:30 (Central European Winter Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Vladimir Mitankin (Bulgarian Academy of Sciences)
+
+**Title**:  *Semi-integral points on Markoff pairs*
+
+**Abstract**:  *In this talk, we shall discuss the status of local-global principles for semi-integral points on Campana orbifolds arising from Markoff surfaces 
+and obstructions to them. We will then explain the distribution of Campana orbifolds which have semi-integral points that do not come from integral points on the 
+corresponding Markoff surface. This talk is based on a joint work with Justin Uhlemann.*
+
+Ref：
 
 -----------------------------------------------------------------
 
