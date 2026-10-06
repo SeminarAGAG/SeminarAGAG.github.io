@@ -39,7 +39,6 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 ### 2026 Fall Session 
 
 
-
 -----------------------------------------------------------------
 
 
@@ -52,6 +51,25 @@ or
 **Zoom Meeting ID**: available upon request
 
 **Speaker**: Ulrich Derenthal (Leibniz Universität Hannover)
+
+**Title**:  *TBA*
+
+**Abstract**:  *TBA*
+
+Ref：
+
+-----------------------------------------------------------------
+
+
+**Date**: 27.11.2026 (dd.mm.yyyy)  **Time**:   (Beijing Time)
+
+or
+
+**Date**: 27.11.2026 (dd.mm.yyyy)  **Time**:   (Central European Winter Time)
+
+**Zoom Meeting ID**: available upon request
+
+**Speaker**: Florian Wilsch (Universität Göttingen)
 
 **Title**:  *TBA*
 
