@@ -52,9 +52,11 @@ or
 
 **Speaker**: Ulrich Derenthal (Leibniz Universität Hannover)
 
-**Title**:  *TBA*
+**Title**:  *Equidistribution of rational points on quintic del Pezzo surfaces*
 
-**Abstract**:  *TBA*
+**Abstract**:  *We discuss equidistribution and Manin's conjecture for rational points outside the lines on smooth split quintic del Pezzo surfaces over number
+fields with respect to any anticanonical height. The proof is based on a general theorem that deduces equidistribution when the universal torsor method proves 
+Manin's conjecture for sufficiently many height functions.*
 
 Ref：
 
