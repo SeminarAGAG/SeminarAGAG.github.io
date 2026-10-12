@@ -143,6 +143,9 @@ also explain applications to the topology of Stein spaces.*
 Ref：
 
 
+[O. Benoist, Étale cohomology of Stein algebras](https://arxiv.org/abs/2604.05625)
+
+
 -----------------------------------------------------------------
 
 **Date**: 12.10.2026 (dd.mm.yyyy)  **Time**:  16:30–17:30 (Beijing Time)
