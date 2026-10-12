@@ -165,6 +165,11 @@ fields.*
 
 Ref:  
 
+[Z. Reichstein, F. Scavia, Brauer classes not split by genus one curves](https://arxiv.org/abs/2508.07447)
+
+[B. Antieau, A. Auel, F. Scavia, Splitting Brauer classes by genus one curves over number fields](https://arxiv.org/abs/2607.26915)
+
+[Video](https://)
 
 ----------------------------------------------------------------------------------------------------
 
