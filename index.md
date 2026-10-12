@@ -172,7 +172,7 @@ Ref:
 
 [B. Antieau, A. Auel, F. Scavia, Splitting Brauer classes by genus one curves over number fields](https://arxiv.org/abs/2607.26915)
 
-[Video](https://)
+[Video](https://www.bilibili.com/video/BV1p1p96DERC)
 
 ----------------------------------------------------------------------------------------------------
 
