@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 
 
-**The next talk** on  <font color=blue> Monday, October 12, 2026, 16:30--17:30 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Monday, Novem 2, 2026, 16:30--17:30 (Beijing Time).</font>
 
 
 
@@ -142,9 +142,9 @@ also explain applications to the topology of Stein spaces.*
 
 Ref：
 
-
 [O. Benoist, Étale cohomology of Stein algebras](https://arxiv.org/abs/2604.05625)
 
+[Video](https://www.bilibili.com/video/BV1GrJX69EKS)
 
 -----------------------------------------------------------------
 
