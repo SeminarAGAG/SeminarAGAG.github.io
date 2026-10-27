@@ -121,6 +121,8 @@ corresponding Markoff surface. This talk is based on a joint work with Justin Uh
 
 Ref：
 
+[V. Mitankin, J.Uhlemann, Local-global principles for semi-integral points on Markoff orbifold pairs](https://arxiv.org/abs/2411.02629)
+
 -----------------------------------------------------------------
 
 
