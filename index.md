@@ -132,6 +132,8 @@ Ref：
 
 [V. Mitankin, J.Uhlemann, Local-global principles for semi-integral points on Markoff orbifold pairs](https://arxiv.org/abs/2411.02629)
 
+[Video](https://www.bilibili.com/video/BV1Ay4c6jETe)
+
 -----------------------------------------------------------------
 
 
