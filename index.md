@@ -32,7 +32,7 @@ XU Fei (Capital Normal Univ., Beijing);   &emsp; &emsp;  xuf##@math.ac.cn    &em
 
 
 
-**The next talk** on  <font color=blue> Monday, November 2, 2026, 16:30--17:30 (Beijing Time).</font>
+**The next talk** on  <font color=blue> Monday, November 16, 2026, 16:30--17:30 (Beijing Time).</font>
 
 
 
@@ -93,11 +93,20 @@ or
 
 **Speaker**: Otto Overkamp (Heinrich-Heine-Universität Düsseldorf)
 
-**Title**:  *TBA*
+**Title**:  *Unirational algebraic groups and tame ramification*
 
-**Abstract**:  *TBA*
+**Abstract**:  *Let \Og_K be a complete discrete valuation ring with field of fractions K and algebraically closed residue field k. Let G be an algebraic torus 
+over K. For each d prime to the residue characteristic, let K(d) be the unique extension of K of degree d. I shall report on recent joint work with I. Vanni 
+studying how the Néron lft-model of G behaves under base change to the ring of integers \Og_{K(d)}. Information about this behaviour is encoded in the jumps of 
+Edixhoven's filtration on the special fibre of the Néron lft-model of G, as well as in Halle-Nicaise's motivic zeta function of G. In both cases, an important 
+question is whether these objects are rational, was hitherto only known in certain special cases such as tamely ramified tori. I shall give an introduction to 
+these objects and explain a proof that the jumps are indeed rational without any further assumptions on the torus. Time permitting, I shall also indicate how this 
+result generalises to broader classes of commutative algebraic groups.*
 
 Ref：
+
+
+[O. Overkamp, I. Vanni, Unirational algebraic groups and tame ramification](https://arxiv.org/abs/2604.18436)
 
 
 -----------------------------------------------------------------
